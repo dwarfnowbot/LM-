@@ -43,7 +43,7 @@ function brickpoint_page_seed_data() {
 		),
 		'construction-materials' => array(
 			'title'   => __( 'Construction Materials', 'brickpoint' ),
-			'content' => "<!-- wp:paragraph -->\n<p>" . __( 'A single source for the materials a project needs: cement, crush, sand, steel, electrical and plumbing pipes, construction chemicals, insulation, cables, paints, lights and switches. Browse everything by category below, or see all products at once.', 'brickpoint' ) . "</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:shortcode -->[bp_product_categories limit=\"15\" columns=\"4\"]\n<!-- /wp:shortcode -->\n\n<!-- wp:heading -->\n<h2>" . __( 'All materials', 'brickpoint' ) . \"</h2>\n<!-- /wp:heading -->\n\n<!-- wp:shortcode -->[bp_products limit=\"9\" columns=\"3\"]\n<!-- /wp:shortcode -->",
+			'content' => "<!-- wp:paragraph -->\n<p>" . __( 'A single source for the materials a project needs: cement, crush, sand, steel, electrical and plumbing pipes, construction chemicals, insulation, cables, paints, lights and switches. Browse everything by category below, or see all products at once.', 'brickpoint' ) . "</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:shortcode -->[bp_product_categories limit=\"15\" columns=\"4\"]\n<!-- /wp:shortcode -->\n\n<!-- wp:heading -->\n<h2>" . __( 'All materials', 'brickpoint' ) . "</h2>\n<!-- /wp:heading -->\n\n<!-- wp:shortcode -->[bp_products limit=\"9\" columns=\"3\"]\n<!-- /wp:shortcode -->",
 		),
 		'for-contractors' => array(
 			'title'   => __( 'For Contractors', 'brickpoint' ),

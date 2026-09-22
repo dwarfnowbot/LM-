@@ -29,7 +29,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit; // No direct access.
 }
 
-define( 'BRICKPOINT_VERSION', '1.0.5' );
+define( 'BRICKPOINT_VERSION', '1.0.6' );
 define( 'BRICKPOINT_DIR', trailingslashit( get_template_directory() ) );
 define( 'BRICKPOINT_URI', trailingslashit( get_template_directory_uri() ) );
 
