@@ -1,0 +1,362 @@
+[
+ {
+  "id": "655d6ad",
+  "elType": "section",
+  "settings": {
+   "layout": "full_width",
+   "gap": "default"
+  },
+  "elements": [
+   {
+    "id": "6d90be9",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "2dd45b8",
+      "elType": "widget",
+      "widgetType": "bp_ss7_showcase",
+      "settings": {
+       "eyebrow": "SS7 Bricks",
+       "title": "The Strength Behind Every Structure",
+       "text": "SS7 Bricks are produced and stacked with a focus on uniform size, clean edges and consistent strength. Ask us for current sizes, rates and availability for your project.",
+       "image": {
+        "url": "{{IMG_URL:brick-ss7}}",
+        "id": "{{IMG_ID:brick-ss7}}"
+       },
+       "gallery": [
+        {
+         "url": "{{IMG_URL:brick-standard}}",
+         "id": "{{IMG_ID:brick-standard}}"
+        },
+        {
+         "url": "{{IMG_URL:project-boundary}}",
+         "id": "{{IMG_ID:project-boundary}}"
+        }
+       ],
+       "video_file": {
+        "url": "{{VID_URL:demo-brick-stacking}}",
+        "id": "{{VID_ID:demo-brick-stacking}}"
+       },
+       "btn1_label": "View SS7 Bricks",
+       "btn1_link": {
+        "url": "{{URL:ss7-bricks}}",
+        "is_external": "",
+        "nofollow": ""
+       },
+       "quote_label": "Request Quotation",
+       "whatsapp_label": "Ask about SS7 on WhatsApp",
+       "specs": [
+        {
+         "_id": "1db4ade",
+         "label": "Material",
+         "value": "Fired clay brick"
+        },
+        {
+         "_id": "f6ae7d4",
+         "label": "Standard use",
+         "value": "Load-bearing walls, grey structure, boundary walls"
+        },
+        {
+         "_id": "26fd020",
+         "label": "Supply",
+         "value": "Bulk loads — confirm sizes and rates on inquiry"
+        }
+       ],
+       "highlights": "Uniform size and clean edges\nConsistent strength across the stack\nStacked and loaded with care\nBulk supply for projects and homes",
+       "media_side": "right",
+       "animation": "depth",
+       "section_bg": "#0e0f11",
+       "text_color": "#ffffff"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "9db1d2b",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "b86c2a7",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "7315c3b",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "SS7 bricks",
+       "head_title": "Consistent size, clean edges, dependable strength",
+       "head_text": "SS7 Bricks are produced at our own bhattas and supplied in bulk for grey structure, boundary walls and general masonry work.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "b87fad0",
+      "elType": "widget",
+      "widgetType": "bp_product_grid",
+      "settings": {
+       "category": "ss7-bricks",
+       "featured_only": "",
+       "limit": 6,
+       "orderby": "menu_order",
+       "order": "DESC",
+       "pagination": "none",
+       "card_style": "default",
+       "hover_effect": "lift",
+       "image_ratio": "4-3",
+       "columns": 3,
+       "columns_tablet": 2,
+       "columns_mobile": 1,
+       "gap": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "show_excerpt": "yes",
+       "show_price": "yes",
+       "show_price_label": "yes",
+       "show_details_btn": "yes",
+       "show_whatsapp": "yes"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "7124f4c",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#f6f1ea"
+  },
+  "elements": [
+   {
+    "id": "61faa92",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "428d018",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Watch SS7 bricks",
+       "head_title": "Stacking, loading and quality checks",
+       "head_text": "Replace the demo clips with footage from your own production.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "0106bda",
+      "elType": "widget",
+      "widgetType": "bp_video_grid",
+      "settings": {
+       "category": "ss7-bricks",
+       "featured_only": "",
+       "limit": 3,
+       "orderby": "date",
+       "pagination": "none",
+       "show_filters": "",
+       "image_fit": "cover",
+       "hover": "zoom",
+       "columns": 3,
+       "columns_tablet": 2,
+       "columns_mobile": 1,
+       "gap": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "show_title": "yes",
+       "show_desc": "yes",
+       "show_cat": "yes",
+       "show_duration": "yes",
+       "show_date": "yes",
+       "show_play": "yes",
+       "show_badge": "yes",
+       "show_view_btn": "yes"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "f7e203f",
+      "elType": "widget",
+      "widgetType": "button",
+      "settings": {
+       "text": "More videos",
+       "link": {
+        "url": "{{URL:videos}}",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "align": "center",
+       "size": "md",
+       "button_text_color": "#ffffff",
+       "background_color": "#c1440e"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "e249303",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "eb93671",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "735a5ba",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Order SS7 bricks",
+       "head_title": "Confirm sizes, quantity and delivery",
+       "head_text": "Send your requirement and we will confirm the current rate and loading schedule.",
+       "head_align": "center",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "b2c767f",
+      "elType": "widget",
+      "widgetType": "bp_whatsapp_button",
+      "settings": {
+       "label": "Ask about SS7 Bricks",
+       "context": "general",
+       "message": "Assalam-o-Alaikum BrickPoint, I would like a quotation for SS7 Bricks.",
+       "style": "whatsapp",
+       "size": "lg",
+       "show_icon": "yes",
+       "show_phone": "yes",
+       "full_width": "",
+       "align": "center"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "c211013",
+      "elType": "widget",
+      "widgetType": "spacer",
+      "settings": {
+       "space": {
+        "unit": "px",
+        "size": 20,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "d349881",
+      "elType": "widget",
+      "widgetType": "bp_contact_form",
+      "settings": {
+       "heading": "SS7 Bricks inquiry",
+       "subtext": "Quantity, delivery location and preferred loading date.",
+       "button": "Send Inquiry",
+       "context": "SS7 Bricks page"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ }
+]

@@ -1,0 +1,50 @@
+/*
+Theme Name: BrickPoint
+Theme URI: https://brickpoint.pk/
+Author: BrickPoint
+Author URI: https://brickpoint.pk/
+Description: BrickPoint is a premium, Elementor-first WordPress theme built for construction-materials suppliers. It ships with a custom Products system (bp_product), Videos (bp_video), Projects (bp_project) and Locations (bp_location), WhatsApp inquiry & quotation buttons, a project/portfolio and video library, plus a full design-token system - no WooCommerce required.
+Version: 1.0.5
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: brickpoint
+Tags: elementor, custom-logo, custom-menu, featured-images, blog, rtl-language-support, translation-ready, wide-blocks, block-styles, threaded-comments, portfolio
+
+BrickPoint WordPress Theme, (C) 2026 BrickPoint
+BrickPoint is distributed under the terms of the GNU GPL v2 or later.
+
+All real theme styling lives in:
+  assets/css/main.css        - design tokens + components
+  assets/css/responsive.css  - breakpoint layer (320px -> 1920px)
+  assets/css/animations.css  - motion layer (with reduced-motion support)
+
+This file only carries the required theme header plus a small safety-net
+stylesheet so the theme still renders legibly if the asset folder is missing.
+*/
+
+/* --- Minimal safety net (do not add components here) --- */
+html { -webkit-text-size-adjust: 100%; }
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+	line-height: 1.65;
+	color: #16181c;
+	background: #ffffff;
+}
+img, svg, video { max-width: 100%; height: auto; }
+a { color: #c1440e; }
+.screen-reader-text {
+	border: 0;
+	clip: rect(1px, 1px, 1px, 1px);
+	clip-path: inset(50%);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute !important;
+	width: 1px;
+	word-wrap: normal !important;
+}

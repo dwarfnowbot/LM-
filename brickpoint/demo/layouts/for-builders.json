@@ -1,0 +1,289 @@
+[
+ {
+  "id": "d5ed198",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "5e2e77d",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "fd596d2",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "For Builders",
+       "head_title": "Material sourcing support at every stage",
+       "head_text": "From grey structure to finishing, BrickPoint supplies the materials a build needs with consistent quality across consignments.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "0505233",
+      "elType": "widget",
+      "widgetType": "icon-list",
+      "settings": {
+       "icon_list": [
+        {
+         "_id": "d22f3da",
+         "text": "Construction material sourcing from one supplier",
+         "selected_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "_id": "b6dffd7",
+         "text": "Consistent quality across multiple consignments",
+         "selected_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "_id": "f06bb3b",
+         "text": "Bulk requirements handled on request",
+         "selected_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "_id": "50f4023",
+         "text": "Material scheduling support for your build plan",
+         "selected_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "_id": "12d3d5a",
+         "text": "One WhatsApp contact for the whole project",
+         "selected_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        }
+       ],
+       "icon_color": "#c1440e",
+       "space_between": {
+        "unit": "px",
+        "size": 12,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "31af647",
+      "elType": "widget",
+      "widgetType": "bp_whatsapp_button",
+      "settings": {
+       "label": "WhatsApp our sales team",
+       "context": "general",
+       "message": "Assalam-o-Alaikum BrickPoint, I am a builder and would like material rates.",
+       "style": "whatsapp",
+       "size": "lg",
+       "show_icon": "yes",
+       "show_phone": "yes",
+       "full_width": "",
+       "align": "left"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "d8e1274",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#f6f1ea"
+  },
+  "elements": [
+   {
+    "id": "353fdd0",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "71e19e4",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Send an inquiry",
+       "head_title": "We reply with availability and rates",
+       "head_text": "Share your material list, quantity and delivery location.",
+       "head_align": "center",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "16cf085",
+      "elType": "widget",
+      "widgetType": "bp_contact_form",
+      "settings": {
+       "heading": "For Builders inquiry",
+       "subtext": "Material list, quantity and delivery location.",
+       "button": "Send Inquiry",
+       "context": "For Builders page"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "f4b1eb1",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#0e0f11"
+  },
+  "elements": [
+   {
+    "id": "b5ca06c",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "07783c8",
+      "elType": "widget",
+      "widgetType": "heading",
+      "settings": {
+       "title": "Prefer WhatsApp?",
+       "header_size": "h2",
+       "align": "center",
+       "title_color": "#ffffff"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "a497c56",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "settings": {
+       "editor": "<p style=\"color:#d8d3cb;text-align:center;\">Message us the material list and we will respond with rates and loading times.</p>",
+       "align": "left"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "d4111a1",
+      "elType": "widget",
+      "widgetType": "bp_whatsapp_button",
+      "settings": {
+       "label": "Chat on WhatsApp",
+       "context": "general",
+       "message": "Assalam-o-Alaikum BrickPoint, I am a builder and would like material rates.",
+       "style": "whatsapp",
+       "size": "lg",
+       "show_icon": "yes",
+       "show_phone": "yes",
+       "full_width": "",
+       "align": "center"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "bb75ea2",
+      "elType": "widget",
+      "widgetType": "button",
+      "settings": {
+       "text": "Request a Quote",
+       "link": {
+        "url": "{{URL:contact}}",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "align": "center",
+       "size": "md",
+       "button_text_color": "#ffffff",
+       "background_color": "#c1440e"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ }
+]

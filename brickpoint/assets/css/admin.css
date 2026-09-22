@@ -1,0 +1,211 @@
+/* BrickPoint admin styles (dashboard, setup, settings, docs). */
+
+.bp-admin {
+	max-width: 1180px;
+}
+
+.bp-admin__lead {
+	font-size: 15px;
+	max-width: 780px;
+	color: #50575e;
+}
+
+.bp-admin__grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+	gap: 16px;
+	margin: 20px 0 30px;
+}
+
+.bp-admin__card {
+	display: block;
+	padding: 18px 20px;
+	background: #fff;
+	border: 1px solid #dcdcde;
+	border-left: 4px solid #c1440e;
+	border-radius: 8px;
+	text-decoration: none;
+	color: #1d2327;
+	transition: box-shadow .18s ease, transform .18s ease;
+}
+
+.bp-admin__card:hover,
+.bp-admin__card:focus {
+	box-shadow: 0 8px 22px rgba(0, 0, 0, .08);
+	transform: translateY(-2px);
+	color: #1d2327;
+}
+
+.bp-admin__card-value {
+	display: block;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 1.1;
+	color: #c1440e;
+}
+
+.bp-admin__card-label {
+	display: block;
+	margin: 6px 0 10px;
+	font-weight: 600;
+}
+
+.bp-admin__card-action {
+	font-size: 13px;
+	color: #2271b1;
+}
+
+.bp-admin__links {
+	list-style: disc;
+	padding-left: 20px;
+	font-size: 14px;
+}
+
+.bp-admin__notice {
+	background: #fff8e5;
+	border-left: 4px solid #dba617;
+	padding: 12px 16px;
+	max-width: 860px;
+	border-radius: 4px;
+}
+
+.bp-admin__actions {
+	display: grid;
+	gap: 18px;
+	max-width: 900px;
+	margin-top: 20px;
+}
+
+.bp-admin__action {
+	background: #fff;
+	border: 1px solid #dcdcde;
+	border-radius: 8px;
+	padding: 18px 20px;
+}
+
+.bp-admin__action h3 {
+	margin-top: 0;
+}
+
+.bp-admin__doc h2 {
+	margin-top: 28px;
+	padding-top: 18px;
+	border-top: 1px solid #e5e5e5;
+}
+
+.bp-admin__doc ol,
+.bp-admin__doc ul {
+	max-width: 900px;
+}
+
+.bp-admin__doc code {
+	background: #f0f0f1;
+	padding: 2px 6px;
+	border-radius: 4px;
+}
+
+.bp-admin-hint {
+	margin: 12px 0 0;
+	padding: 10px 14px;
+	background: #f6f7f7;
+	border-left: 4px solid #2271b1;
+	border-radius: 4px;
+	font-size: 13px;
+}
+
+/* Meta box fields */
+.bp-field {
+	margin: 0 0 14px;
+}
+
+.bp-field label strong {
+	font-weight: 600;
+}
+
+.bp-field--checkbox label {
+	font-weight: 600;
+}
+
+.bp-meta-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+	gap: 4px 24px;
+}
+
+.bp-repeater__table input {
+	width: 100%;
+}
+
+.bp-repeater-add {
+	margin-top: 8px;
+}
+
+.bp-repeater-remove {
+	color: #b32d2e;
+	font-size: 18px;
+	line-height: 1;
+	text-decoration: none;
+}
+
+.bp-gallery-item {
+	position: relative;
+	display: inline-block;
+}
+
+.bp-gallery-item .bp-gallery-remove {
+	display: block;
+	font-size: 12px;
+}
+
+.bp-term-image-preview {
+	max-width: 220px;
+	border-radius: 8px;
+	margin: 6px 0;
+	display: block;
+}
+
+.bp-admin-thumb {
+	width: 64px;
+	height: 64px;
+	object-fit: cover;
+	border-radius: 6px;
+	display: block;
+}
+
+.bp-admin-thumb--empty {
+	color: #8c8f94;
+}
+
+/* Demo content: badge in the list screens and the smaller dashboard cards. */
+.bp-demo-badge {
+	display: inline-block;
+	padding: 1px 8px;
+	border-radius: 999px;
+	background: #fdf0e6;
+	color: #a53a0c;
+	font-size: 11px;
+	font-weight: 600;
+	line-height: 1.7;
+	letter-spacing: .02em;
+}
+
+.bp-admin__grid--links .bp-admin__card--small {
+	min-height: 0;
+	padding: 14px 16px;
+}
+
+.bp-admin__grid--links .bp-admin__card--small .bp-admin__card-label {
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.bp-admin__grid--links .bp-admin__card--small .bp-admin__card-action {
+	margin-top: 4px;
+	font-size: 12px;
+	line-height: 1.5;
+}
+
+.bp-admin__action--wide {
+	flex-basis: 100%;
+	max-width: 100%;
+}

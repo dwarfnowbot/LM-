@@ -1,0 +1,203 @@
+[
+ {
+  "id": "f43515f",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "2754a85",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "0e5ef0c",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Locations",
+       "head_title": "Production sites and sales office",
+       "head_text": "Every location card uses its real Google Maps link. Call or WhatsApp before visiting to confirm loading times.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "8013016",
+      "elType": "widget",
+      "widgetType": "bp_location_cards",
+      "settings": {
+       "limit": 4,
+       "show_address": "yes",
+       "show_hours": "yes",
+       "show_buttons": "yes",
+       "show_video": "yes",
+       "show_products": "yes",
+       "head_eyebrow": "",
+       "head_title": "",
+       "head_text": "",
+       "head_align": "left",
+       "head_tag": "h2",
+       "columns": 2,
+       "columns_tablet": 2,
+       "columns_mobile": 1,
+       "gap": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "f9be6ca",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#f6f1ea"
+  },
+  "elements": [
+   {
+    "id": "bf87256",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "0051761",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Directions",
+       "head_title": "Google Maps links",
+       "head_text": "Tap a location to open Google Maps and start navigation.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "50677cd",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "settings": {
+       "editor": "<ul><li><strong>Masha Allah Bricks Company – Ram Thaman:</strong> <a href=\"https://maps.app.goo.gl/6Pi5BNTsxPRkn1cn7?g_st=awb\" target=\"_blank\" rel=\"noopener\">open in Google Maps</a></li><li><strong>Fine Bricks Company – Raja Jang:</strong> <a href=\"https://maps.app.goo.gl/SDaxqVM55qXt66wW8?g_st=awb\" target=\"_blank\" rel=\"noopener\">open in Google Maps</a></li><li><strong>Masha Allah Bricks Company – Sattoki:</strong> <a href=\"https://www.google.com/maps?q=31.2328,74.3169424&amp;z=17&amp;hl=en\" target=\"_blank\" rel=\"noopener\">open in Google Maps</a></li><li><strong>BrickPoint Office:</strong> <a href=\"https://maps.app.goo.gl/GACXw15YxyV4bK5t8?g_st=awb\" target=\"_blank\" rel=\"noopener\">open in Google Maps</a></li></ul><p><em>Edit the address, timings and phone number of each location in WordPress → Locations.</em></p>",
+       "align": "left"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "903ebfb",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "58d8ad0",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "d8b88af",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Visit or call",
+       "head_title": "Talk to us before you load",
+       "head_text": "Our sales office coordinates every delivery.",
+       "head_align": "center",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "f3a85b0",
+      "elType": "widget",
+      "widgetType": "bp_contact_form",
+      "settings": {
+       "heading": "Contact our office",
+       "subtext": "Share your material list, quantity and delivery location.",
+       "button": "Send Inquiry",
+       "context": "Locations page"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ }
+]

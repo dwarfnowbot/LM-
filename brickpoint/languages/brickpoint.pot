@@ -1,0 +1,4932 @@
+# Copyright (C) 2026 BrickPoint
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: BrickPoint 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/brickpoint\n"
+"POT-Creation-Date: 2026-09-22 00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: BrickPoint POT builder\n"
+"X-Domain: brickpoint\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/contact.php:244
+msgid "%1$s – %2$s"
+msgstr ""
+
+#: inc/product-functions.php:471
+msgid "%d product"
+msgid_plural "%d products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: search.php:23
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/comments.php:25
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/meta-fields.php:743
+msgid "+ Add specification"
+msgstr ""
+
+#: inc/admin.php:693
+msgid "1. Create the required pages"
+msgstr ""
+
+#: inc/admin.php:876
+msgid "1. First five minutes"
+msgstr ""
+
+#: inc/meta-fields.php:878
+msgid "16:9 (widescreen)"
+msgstr ""
+
+#: inc/meta-fields.php:880
+msgid "1:1 (square - Reels/TikTok)"
+msgstr ""
+
+#: inc/admin.php:885
+msgid "2. Adding products"
+msgstr ""
+
+#: inc/admin.php:699
+msgid "2. Create product, video & project categories"
+msgstr ""
+
+#: inc/admin.php:895
+msgid "3. Adding videos"
+msgstr ""
+
+#: inc/admin.php:705
+msgid "3. Create the BrickPoint locations"
+msgstr ""
+
+#: inc/admin.php:711
+msgid "4. Create the navigation menus"
+msgstr ""
+
+#: inc/admin.php:903
+msgid "4. Shortcodes (any page, widget or Elementor text editor)"
+msgstr ""
+
+#: inc/admin.php:984
+msgid "404"
+msgstr ""
+
+#: inc/meta-fields.php:879
+msgid "4:3"
+msgstr ""
+
+#: inc/admin.php:918
+msgid "5. Elementor"
+msgstr ""
+
+#: inc/admin.php:717
+msgid "5. Optional: starter drafts"
+msgstr ""
+
+#: inc/admin.php:723
+msgid "6. Troubleshooting"
+msgstr ""
+
+#: inc/admin.php:926
+msgid "6. WhatsApp behaviour"
+msgstr ""
+
+#: inc/admin.php:929
+msgid "7. Content honesty rules"
+msgstr ""
+
+#: inc/meta-fields.php:782
+msgid "9 x 4.5 x 3 inch"
+msgstr ""
+
+#: inc/meta-fields.php:881
+msgid "9:16 (vertical - Reels/Shorts)"
+msgstr ""
+
+#: inc/contact.php:323
+msgid "[BrickPoint] New inquiry: %s"
+msgstr ""
+
+#: front-page.php:275
+msgid "A closer look at our bricks, the production process and the people who get them to your site."
+msgstr ""
+
+#: elementor/widgets/hero.php:344
+msgid "A single brick drifts from the background into the foreground. Uses the SS7 brick image and keeps the aspect ratio - it never stretches."
+msgstr ""
+
+#: inc/admin.php:46
+msgid "A single source for the materials a project needs: cement, crush, sand, steel, electrical and plumbing pipes, construction chemicals, insulation, cables, paints, lights and switches."
+msgstr ""
+
+#: inc/template-functions.php:349
+msgid "About"
+msgstr ""
+
+#: footer.php:126
+#: inc/admin.php:29
+#: inc/admin.php:220
+#: inc/admin.php:245
+msgid "About Us"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "Accent orange"
+msgstr ""
+
+#: elementor/widgets/product-gallery.php:143
+msgid "Active thumbnail color"
+msgstr ""
+
+#: inc/admin.php:899
+msgid "Add a category (SS7 Bricks, Manufacturing, Our Bhattas, Quality…), duration and mark featured if needed."
+msgstr ""
+
+#: single-bp_location.php:143
+msgid "Add a Google Maps link in the location editor to show map and direction buttons."
+msgstr ""
+
+#: inc/meta-fields.php:433
+msgid "Add images"
+msgstr ""
+
+#: inc/post-types.php:169
+msgid "Add Location"
+msgstr ""
+
+#: inc/post-types.php:170
+msgid "Add New Location"
+msgstr ""
+
+#: inc/post-types.php:42
+msgid "Add New Product"
+msgstr ""
+
+#: inc/taxonomies.php:30
+msgid "Add New Product Category"
+msgstr ""
+
+#: inc/post-types.php:131
+msgid "Add New Project"
+msgstr ""
+
+#: inc/taxonomies.php:92
+msgid "Add New Project Category"
+msgstr ""
+
+#: inc/post-types.php:92
+msgid "Add New Video"
+msgstr ""
+
+#: inc/taxonomies.php:62
+msgid "Add New Video Category"
+msgstr ""
+
+#: inc/post-types.php:41
+msgid "Add Product"
+msgstr ""
+
+#: front-page.php:379
+msgid "Add product or material videos to fill this section."
+msgstr ""
+
+#: inc/post-types.php:130
+msgid "Add Project"
+msgstr ""
+
+#: archive-bp_project.php:56
+msgid "Add project references in WordPress → Projects. Only publish a project when the details can be verified — otherwise enable the “illustrative” checkbox so visitors are not misled."
+msgstr ""
+
+#: inc/post-types.php:91
+msgid "Add Video"
+msgstr ""
+
+#: front-page.php:318
+msgid "Add videos to the “Brick Manufacturing”, “Our Bhattas” or “Brick Quality” categories and they will appear here automatically."
+msgstr ""
+
+#: archive-bp_location.php:35
+msgid "Add your bhatta and office locations in WordPress → Locations, or create the default set from BrickPoint → Setup & Content."
+msgstr ""
+
+#: archive-bp_product.php:61
+msgid "Add your first product in WordPress → Products. You can also create a set of starter drafts from BrickPoint → Setup & Content."
+msgstr ""
+
+#: archive-bp_video.php:58
+msgid "Add your first video in WordPress → Videos (YouTube, Vimeo or a self-hosted MP4) and it will appear here."
+msgstr ""
+
+#: inc/meta-fields.php:667
+msgid "Additional product images. The featured image is always shown first."
+msgstr ""
+
+#: inc/meta-fields.php:1078
+#: elementor/widgets/location-cards.php:100
+#: elementor/widgets/location-cards.php:179
+msgid "Address"
+msgstr ""
+
+#: elementor/widgets/base.php:110
+#: elementor/widgets/breadcrumbs.php:77
+#: elementor/widgets/whatsapp-button.php:183
+msgid "Alignment"
+msgstr ""
+
+#: elementor/widgets/base.php:338
+msgid "All categories"
+msgstr ""
+
+#: inc/post-types.php:174
+msgid "All Locations"
+msgstr ""
+
+#: inc/taxonomies.php:26
+msgid "All Product Categories"
+msgstr ""
+
+#: 404.php:31
+#: inc/post-types.php:46
+msgid "All Products"
+msgstr ""
+
+#: archive-bp_product.php:36
+msgid "All products"
+msgstr ""
+
+#: inc/taxonomies.php:89
+msgid "All Project Categories"
+msgstr ""
+
+#: elementor/widgets/base.php:379
+msgid "All project categories"
+msgstr ""
+
+#: archive-bp_project.php:34
+msgid "All projects"
+msgstr ""
+
+#: inc/post-types.php:135
+msgid "All Projects"
+msgstr ""
+
+#: inc/taxonomies.php:59
+msgid "All Video Categories"
+msgstr ""
+
+#: elementor/widgets/base.php:354
+msgid "All video categories"
+msgstr ""
+
+#: archive-bp_video.php:35
+#: taxonomy-bp_video_category.php:34
+#: inc/post-types.php:96
+#: elementor/widgets/video-grid.php:410
+msgid "All Videos"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:159
+msgid "Also show a phone call button"
+msgstr ""
+
+#: elementor/widgets/hero.php:360
+msgid "Animation depth"
+msgstr ""
+
+#: inc/customizer.php:330
+msgid "Animation speed (ms)"
+msgstr ""
+
+#: inc/admin.php:878
+msgid "Appearance → Customize → Site Identity: upload the BrickPoint logo and site icon (favicon)."
+msgstr ""
+
+#: inc/admin.php:881
+msgid "Appearance → Menus: assign the Primary Menu (and the three footer menus if you want custom footer columns)."
+msgstr ""
+
+#: inc/admin.php:982
+msgid "Archive / Single → Locations"
+msgstr ""
+
+#: inc/admin.php:981
+msgid "Archive / Single → Projects"
+msgstr ""
+
+#: inc/admin.php:983
+msgid "Archive → Posts / Single → Posts"
+msgstr ""
+
+#: inc/admin.php:977
+msgid "Archive → Product Categories"
+msgstr ""
+
+#: inc/admin.php:975
+msgid "Archive → Products"
+msgstr ""
+
+#: inc/admin.php:978
+msgid "Archive → Videos"
+msgstr ""
+
+#: inc/admin.php:967
+msgid "Area"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:155
+msgid "Ascending"
+msgstr ""
+
+#: single.php:93
+msgid "Ask a question"
+msgstr ""
+
+#: archive-bp_product.php:66
+msgid "Ask about availability"
+msgstr ""
+
+#: inc/admin.php:42
+msgid "Ask about SS7 Bricks"
+msgstr ""
+
+#: front-page.php:235
+#: elementor/widgets/ss7-showcase.php:161
+msgid "Ask about SS7 on WhatsApp"
+msgstr ""
+
+#: 404.php:51
+#: archive-bp_location.php:50
+#: taxonomy-bp_product_category.php:119
+#: inc/product-functions.php:490
+#: elementor/widgets/ss7-showcase.php:383
+msgid "Ask on WhatsApp"
+msgstr ""
+
+#: inc/meta-fields.php:875
+#: elementor/widgets/video-card.php:149
+msgid "Aspect ratio"
+msgstr ""
+
+#: inc/admin.php:42
+msgid "Assalam-o-Alaikum BrickPoint, I would like a quotation for SS7 Bricks."
+msgstr ""
+
+#: elementor/widgets/product-grid.php:100
+msgid "Auto (current product category)"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:80
+msgid "Auto - product template uses the product details"
+msgstr ""
+
+#: elementor/widgets/hero.php:312
+msgid "Automatically disabled for visitors who prefer reduced motion."
+msgstr ""
+
+#: elementor/widgets/hero.php:308
+msgid "Autoplay (muted, looped)"
+msgstr ""
+
+#: inc/post-types.php:248
+#: inc/product-functions.php:884
+msgid "Availability"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:256
+#: elementor/widgets/product-price.php:81
+msgid "Availability badge"
+msgstr ""
+
+#: elementor/widgets/product-price.php:115
+msgid "Availability badge background"
+msgstr ""
+
+#: inc/meta-fields.php:604
+msgid "Availability status"
+msgstr ""
+
+#: single-bp_location.php:52
+msgid "Available at this location"
+msgstr ""
+
+#: inc/project-functions.php:347
+msgid "Available here"
+msgstr ""
+
+#: inc/meta-fields.php:1193
+msgid "Available on Request"
+msgstr ""
+
+#: elementor/widgets/base.php:234
+#: elementor/widgets/social-links.php:152
+#: elementor/widgets/whatsapp-button.php:219
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/hero.php:398
+msgid "Background image (optional)"
+msgstr ""
+
+#: elementor/widgets/hero.php:409
+msgid "Background overlay"
+msgstr ""
+
+#: inc/admin.php:348
+#: inc/taxonomies.php:454
+#: inc/taxonomies.php:483
+msgid "Bajri / Crush"
+msgstr ""
+
+#: front-page.php:305
+msgid "Behind the bricks"
+msgstr ""
+
+#: inc/taxonomies.php:489
+msgid "Behind the Scenes"
+msgstr ""
+
+#: elementor/widgets/product-gallery.php:81
+msgid "Below the main image"
+msgstr ""
+
+#: inc/project-functions.php:492
+msgid "Bhatta location supplying bricks and bulk construction materials from Raja Jang."
+msgstr ""
+
+#: footer.php:133
+#: home.php:15
+#: inc/admin.php:127
+#: inc/admin.php:229
+#: inc/admin.php:248
+msgid "Blog"
+msgstr ""
+
+#: inc/admin.php:983
+msgid "Blog archive & single post"
+msgstr ""
+
+#: home.php:50
+msgid "Blog sidebar"
+msgstr ""
+
+#: inc/setup.php:96
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "Body font family"
+msgstr ""
+
+#: inc/customizer.php:259
+msgid "Body text"
+msgstr ""
+
+#: elementor/widgets/base.php:268
+msgid "Border"
+msgstr ""
+
+#: elementor/widgets/base.php:247
+msgid "Border radius"
+msgstr ""
+
+#: elementor/widgets/video-card.php:167
+#: elementor/widgets/whatsapp-button.php:243
+msgid "Border radius (px)"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:231
+#: elementor/widgets/video-grid.php:228
+msgid "Both"
+msgstr ""
+
+#: elementor/widgets/base.php:279
+msgid "Box shadow"
+msgstr ""
+
+#: inc/admin.php:745
+msgid "Brand & contact"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Brand & Contact"
+msgstr ""
+
+#: inc/admin.php:748
+#: inc/customizer.php:121
+msgid "Brand name"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:126
+msgid "Brand solid"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Brand, contact details, hero video, social links, design tokens and footer content."
+msgstr ""
+
+#: inc/admin.php:343
+msgid "Branded cement bags supplied for grey structure and finishing work. Confirm current brand and rate on inquiry."
+msgstr ""
+
+#: inc/template-functions.php:30
+#: elementor/widgets/breadcrumbs.php:131
+msgid "Breadcrumb"
+msgstr ""
+
+#: elementor/widgets/breadcrumbs.php:106
+msgid "Breadcrumb text"
+msgstr ""
+
+#: elementor/widgets/breadcrumbs.php:38
+msgid "Breadcrumbs"
+msgstr ""
+
+#: elementor/widgets/stats.php:79
+msgid "Brick"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:252
+msgid "Brick animation"
+msgstr ""
+
+#: inc/taxonomies.php:477
+msgid "Brick Manufacturing"
+msgstr ""
+
+#: inc/admin.php:416
+msgid "Brick manufacturing process (add your video)"
+msgstr ""
+
+#: front-page.php:307
+msgid "Brick manufacturing, our bhatta locations, firing, stacking, loading and quality checks."
+msgstr ""
+
+#: inc/project-functions.php:501
+msgid "Brick production location at Sattoki with direct loading for project deliveries."
+msgstr ""
+
+#: inc/taxonomies.php:479
+msgid "Brick Quality"
+msgstr ""
+
+#: inc/customizer.php:256
+msgid "Brick red (primary)"
+msgstr ""
+
+#: inc/admin.php:458
+#: inc/admin.php:459
+#: inc/elementor.php:36
+#: inc/project-functions.php:505
+msgid "BrickPoint"
+msgstr ""
+
+#: inc/post-types.php:180
+msgid "BrickPoint companies, bhatta locations and the head office with real Google Maps links."
+msgstr ""
+
+#: inc/admin.php:553
+msgid "BrickPoint Dashboard"
+msgstr ""
+
+#: inc/admin.php:243
+msgid "BrickPoint Footer - Company"
+msgstr ""
+
+#: inc/admin.php:233
+msgid "BrickPoint Footer - Products"
+msgstr ""
+
+#: inc/admin.php:253
+msgid "BrickPoint Footer - Support"
+msgstr ""
+
+#: inc/admin.php:30
+msgid "BrickPoint is a construction-materials supplier delivering premium bricks and building materials for contractors, builders, developers, architects and individual customers. Our production companies are Masha Allah Bricks Company, Fine Bricks Company and SS7 Bricks."
+msgstr ""
+
+#: front-page.php:72
+msgid "BrickPoint is a construction-materials supplier providing bricks and building materials for contractors, builders, developers, architects and individual customers. Our production companies are Masha Allah Bricks Company, Fine Bricks Company and SS7 Bricks."
+msgstr ""
+
+#: inc/admin.php:1017
+msgid "BrickPoint is ready."
+msgstr ""
+
+#: inc/project-functions.php:504
+msgid "BrickPoint Office"
+msgstr ""
+
+#: inc/admin.php:210
+msgid "BrickPoint Primary"
+msgstr ""
+
+#: inc/post-types.php:58
+msgid "BrickPoint products: bricks, SS7 bricks, cement, crush, sand, steel, pipes, chemicals, paints and more."
+msgstr ""
+
+#: inc/admin.php:606
+msgid "BrickPoint publishes only verified information. Do not add certifications, awards, client counts or supply claims for named housing societies or developers unless you can confirm them. Mark concept visuals as “Illustrative construction reference”."
+msgstr ""
+
+#: inc/admin.php:996
+msgid "BrickPoint registers products, videos, projects and locations with REST support, so Elementor Pro Dynamic Tags can pull titles, images, excerpts and custom fields (price, unit, availability) into any widget."
+msgstr ""
+
+#: front-page.php:71
+msgid "BrickPoint supplies the materials that hold projects together"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "BrickPoint Theme"
+msgstr ""
+
+#: inc/admin.php:225
+msgid "BrickPoint Top Bar"
+msgstr ""
+
+#: inc/admin.php:880
+msgid "BrickPoint → Setup & Content: run steps 1–3 (pages, categories, locations)."
+msgstr ""
+
+#: inc/admin.php:879
+msgid "BrickPoint → Theme Settings: confirm phone, WhatsApp number, email, address and social links."
+msgstr ""
+
+#: inc/elementor-widgets.php:83
+msgid "BrickPoint: these Elementor widget files are missing from the theme:"
+msgstr ""
+
+#: inc/taxonomies.php:451
+msgid "Bricks"
+msgstr ""
+
+#: elementor/widgets/hero.php:73
+msgid "Bricks • Cement • Crush • Sand • Steel"
+msgstr ""
+
+#: single.php:77
+msgid "Bricks, cement, crush, sand, steel and finishing materials — supplied for projects of every size."
+msgstr ""
+
+#: inc/admin.php:34
+msgid "Bricks, cement, crush, sand, steel, pipes, chemicals and finishing materials - supplied for home construction, commercial developments and large-scale projects. Prices and availability are confirmed on inquiry."
+msgstr ""
+
+#: archive-bp_product.php:21
+msgid "Bricks, cement, crush, sand, steel, pipes, chemicals and finishing materials. Prices and availability are confirmed on inquiry."
+msgstr ""
+
+#: inc/admin.php:700
+msgid "Bricks, SS7 Bricks, Cement, Bajri/Crush, Sand/Rait, Steel, pipes, chemicals, insulation, cables, paints, lights, switches, other materials plus the video categories."
+msgstr ""
+
+#: inc/product-functions.php:848
+msgid "Brochure"
+msgstr ""
+
+#: inc/meta-fields.php:696
+msgid "Brochure / PDF (media library)"
+msgstr ""
+
+#: front-page.php:165
+msgid "Browse all products"
+msgstr ""
+
+#: inc/admin.php:38
+msgid "Browse BrickPoint materials by category. Every category page shows the products we currently supply and a WhatsApp inquiry button."
+msgstr ""
+
+#: single-bp_product.php:131
+msgid "Browse categories"
+msgstr ""
+
+#: single.php:85
+msgid "Browse products"
+msgstr ""
+
+#: inc/admin.php:921
+msgid "Build the homepage/pages with these widgets - every control is editable and responsive."
+msgstr ""
+
+#: inc/admin.php:991
+msgid "Build with the BrickPoint widgets, then set the display condition."
+msgstr ""
+
+#: inc/admin.php:54
+msgid "Builder inquiry"
+msgstr ""
+
+#: elementor/widgets/hero.php:83
+msgid "Building Strength.\nDelivering Quality.\nShaping Tomorrow."
+msgstr ""
+
+#: inc/admin.php:712
+msgid "Builds the Primary, Top Bar and three footer menus with your pages already linked, then assigns them to the theme menu locations. Menus you have already assigned are left alone."
+msgstr ""
+
+#: inc/admin.php:50
+msgid "Bulk bricks and construction material supply"
+msgstr ""
+
+#: inc/admin.php:50
+msgid "Bulk material supply with dependable availability, project-based quotations and delivery coordination that fits your site schedule."
+msgstr ""
+
+#: inc/admin.php:54
+msgid "Bulk requirements handled on request"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:59
+msgid "Button"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:86
+#: elementor/widgets/whatsapp-button.php:67
+msgid "Button label"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:346
+msgid "Button typography"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:337
+msgid "Buttons"
+msgstr ""
+
+#: inc/taxonomies.php:461
+msgid "Cables and Wires"
+msgstr ""
+
+#: inc/project-functions.php:327
+#: inc/whatsapp.php:284
+msgid "Call"
+msgstr ""
+
+#: footer.php:50
+#: single-bp_location.php:125
+#: single-bp_product.php:117
+#: taxonomy-bp_product_category.php:66
+#: inc/product-functions.php:837
+#: inc/whatsapp.php:243
+msgid "Call Now"
+msgstr ""
+
+#: elementor/widgets/video-card.php:110
+msgid "Caption"
+msgstr ""
+
+#: inc/meta-fields.php:890
+msgid "Captions / subtitles (.vtt)"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Card / button radius (px)"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:237
+msgid "Card border radius (px)"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:243
+#: elementor/widgets/video-grid.php:258
+msgid "Card Content"
+msgstr ""
+
+#: elementor/widgets/product-categories.php:122
+#: elementor/widgets/product-grid.php:211
+msgid "Card style"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:280
+msgid "Card Style"
+msgstr ""
+
+#: elementor/widgets/video-card.php:102
+msgid "Card with details"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:215
+msgid "Card with image on top"
+msgstr ""
+
+#: elementor/widgets/product-categories.php:61
+msgid "Categories"
+msgstr ""
+
+#: inc/post-types.php:247
+#: inc/product-functions.php:880
+#: inc/whatsapp.php:148
+#: elementor/widgets/product-grid.php:328
+#: elementor/widgets/video-grid.php:268
+#: elementor/widgets/video-grid.php:300
+msgid "Category"
+msgstr ""
+
+#: inc/taxonomies.php:215
+msgid "Category banner"
+msgstr ""
+
+#: elementor/widgets/project-grid.php:187
+msgid "Category chip background"
+msgstr ""
+
+#: inc/taxonomies.php:200
+msgid "Category icon key"
+msgstr ""
+
+#: inc/taxonomies.php:210
+msgid "Category image"
+msgstr ""
+
+#: elementor/widgets/product-categories.php:162
+msgid "Category name"
+msgstr ""
+
+#: inc/admin.php:341
+#: inc/taxonomies.php:453
+#: inc/taxonomies.php:482
+msgid "Cement"
+msgstr ""
+
+#: front-page.php:369
+msgid "Cement, crush, sand, steel, pipes, chemicals, cables, paints and finishing items."
+msgstr ""
+
+#: elementor/widgets/base.php:118
+#: elementor/widgets/breadcrumbs.php:86
+#: elementor/widgets/whatsapp-button.php:192
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "CEO name"
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "CEO role label"
+msgstr ""
+
+#: inc/whatsapp.php:327
+msgid "Chat on WhatsApp"
+msgstr ""
+
+#: elementor/widgets/stats.php:78
+msgid "Check"
+msgstr ""
+
+#: elementor/widgets/product-price.php:144
+msgid "Choose a product, or place this widget inside a Single Product template."
+msgstr ""
+
+#: inc/meta-fields.php:398
+msgid "Choose file"
+msgstr ""
+
+#: inc/admin.php:328
+#: elementor/widgets/ss7-showcase.php:205
+msgid "Clay brick"
+msgstr ""
+
+#: inc/admin.php:334
+msgid "Clay Bricks (Standard)"
+msgstr ""
+
+#: inc/meta-fields.php:434
+msgid "Clear gallery"
+msgstr ""
+
+#: elementor/widgets/stats.php:86
+msgid "Clock"
+msgstr ""
+
+#: inc/enqueue.php:111
+msgid "Close"
+msgstr ""
+
+#: inc/video-functions.php:944
+msgid "Close video"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Closing line"
+msgstr ""
+
+#: elementor/widgets/base.php:199
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/base.php:296
+#: elementor/widgets/stats.php:155
+msgid "Columns"
+msgstr ""
+
+#: template-parts/comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/taxonomies.php:502
+msgid "Commercial"
+msgstr ""
+
+#: elementor/widgets/product-categories.php:127
+msgid "Compact icon tile"
+msgstr ""
+
+#: inc/admin.php:792
+msgid "Companies line"
+msgstr ""
+
+#: footer.php:112
+#: inc/contact.php:469
+#: inc/meta-fields.php:1067
+#: inc/post-types.php:298
+msgid "Company"
+msgstr ""
+
+#: inc/contact.php:42
+msgid "Company (optional)"
+msgstr ""
+
+#: inc/taxonomies.php:486
+msgid "Company / Brand"
+msgstr ""
+
+#: elementor/widgets/location-cards.php:178
+msgid "Company name"
+msgstr ""
+
+#: single-bp_project.php:30
+#: inc/meta-fields.php:960
+#: inc/project-functions.php:108
+msgid "Completed"
+msgstr ""
+
+#: inc/meta-fields.php:954
+msgid "Completion status"
+msgstr ""
+
+#: elementor/widgets/location-cards.php:130
+msgid "Compliance note"
+msgstr ""
+
+#: inc/admin.php:397
+msgid "Confirm on inquiry"
+msgstr ""
+
+#: front-page.php:208
+msgid "Consistent dimensions help keep plaster and masonry neat."
+msgstr ""
+
+#: inc/admin.php:54
+msgid "Consistent quality across consignments"
+msgstr ""
+
+#: front-page.php:212
+msgid "Consistent strength"
+msgstr ""
+
+#: inc/taxonomies.php:459
+msgid "Construction Chemicals"
+msgstr ""
+
+#: front-page.php:97
+#: inc/shortcodes.php:416
+#: elementor/widgets/stats.php:145
+msgid "Construction material solutions"
+msgstr ""
+
+#: inc/admin.php:54
+msgid "Construction material sourcing"
+msgstr ""
+
+#: inc/admin.php:45
+#: inc/admin.php:216
+#: inc/admin.php:238
+#: inc/helpers.php:176
+#: inc/taxonomies.php:481
+msgid "Construction Materials"
+msgstr ""
+
+#: front-page.php:368
+msgid "Construction Materials in Motion"
+msgstr ""
+
+#: inc/taxonomies.php:480
+msgid "Construction Projects"
+msgstr ""
+
+#: front-page.php:333
+msgid "Construction-site visuals for context. Project references are published only when they can be confirmed."
+msgstr ""
+
+#: 404.php:34
+#: footer.php:152
+#: inc/admin.php:61
+#: inc/admin.php:221
+#: inc/admin.php:249
+#: inc/template-functions.php:350
+msgid "Contact"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:38
+msgid "Contact / Quotation Form"
+msgstr ""
+
+#: inc/admin.php:62
+msgid "Contact page"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:211
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer.php:298
+msgid "Container width (px)"
+msgstr ""
+
+#: elementor/widgets/breadcrumbs.php:59
+#: elementor/widgets/hero.php:63
+#: elementor/widgets/product-price.php:62
+#: elementor/widgets/product-specs.php:59
+#: elementor/widgets/social-links.php:62
+#: elementor/widgets/ss7-showcase.php:64
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:290
+msgid "Content padding"
+msgstr ""
+
+#: inc/admin.php:604
+msgid "Content rules reminder"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:95
+msgid "Context label (saved with the inquiry)"
+msgstr ""
+
+#: inc/admin.php:50
+msgid "Contractor inquiry"
+msgstr ""
+
+#: inc/admin.php:58
+msgid "Coordinate materials across multiple sites with one point of contact. Share your schedule and we will work through the material list with you."
+msgstr ""
+
+#: inc/meta-fields.php:1107
+msgid "Coordinates (optional)"
+msgstr ""
+
+#: inc/whatsapp.php:378
+msgid "Copy link"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Copy used to build prefilled WhatsApp messages. Product name, category, price and unit are added automatically."
+msgstr ""
+
+#: inc/customizer.php:353
+msgid "Copyright text"
+msgstr ""
+
+#: inc/admin.php:788
+msgid "Copyright text ({year} = current year)"
+msgstr ""
+
+#: inc/admin.php:58
+msgid "Corporate inquiry"
+msgstr ""
+
+#: inc/admin.php:58
+msgid "Corporate inquiry workflow"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:210
+msgid "Cover"
+msgstr ""
+
+#: inc/admin.php:701
+msgid "Create categories"
+msgstr ""
+
+#: inc/admin.php:707
+msgid "Create locations"
+msgstr ""
+
+#: inc/admin.php:713
+msgid "Create menus"
+msgstr ""
+
+#: inc/admin.php:695
+msgid "Create pages"
+msgstr ""
+
+#: inc/admin.php:719
+msgid "Create starter drafts"
+msgstr ""
+
+#: inc/admin.php:718
+msgid "Creates draft products and videos (SS7 Bricks, bricks, cement, crush, sand, steel) that you can edit and publish. Nothing goes live automatically."
+msgstr ""
+
+#: inc/admin.php:988
+msgid "Creating an Elementor template"
+msgstr ""
+
+#: inc/admin.php:350
+msgid "Crushed aggregate for concrete and base layers, delivered by truck to your site."
+msgstr ""
+
+#: inc/meta-fields.php:811
+msgid "Ctrl/Cmd-click to select multiple. Leave empty to auto-pick from the same category."
+msgstr ""
+
+#: elementor/widgets/video-grid.php:121
+msgid "Custom display order"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:100
+msgid "Custom message"
+msgstr ""
+
+#: elementor/widgets/project-grid.php:103
+msgid "Custom order"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:139
+msgid "Custom order (page attributes)"
+msgstr ""
+
+#: inc/meta-fields.php:798
+msgid "Custom WhatsApp inquiry message"
+msgstr ""
+
+#: inc/admin.php:469
+#: inc/admin.php:470
+msgid "Dashboard"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:270
+msgid "Date"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:137
+#: elementor/widgets/project-grid.php:102
+#: elementor/widgets/video-grid.php:119
+msgid "Date published"
+msgstr ""
+
+#: inc/admin.php:58
+msgid "Dedicated sales contact (Sales Manager: Qasim Iqbal)"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "Deep charcoal (dark surfaces)"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Default message (no product context)"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Defaults to the Contact page."
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Defaults to the Products page."
+msgstr ""
+
+#: inc/admin.php:364
+msgid "Deformed steel bars supplied against your requirement list. Sizes and rates are confirmed on inquiry."
+msgstr ""
+
+#: inc/product-functions.php:896
+msgid "Delivery area"
+msgstr ""
+
+#: inc/meta-fields.php:634
+msgid "Delivery area (optional)"
+msgstr ""
+
+#: inc/admin.php:50
+msgid "Delivery coordination with your site team"
+msgstr ""
+
+#: inc/contact.php:62
+msgid "Delivery location"
+msgstr ""
+
+#: elementor/widgets/stats.php:81
+msgid "Delivery truck"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:256
+msgid "Depth (moves from back to front)"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:154
+msgid "Descending"
+msgstr ""
+
+#: elementor/widgets/base.php:101
+#: elementor/widgets/product-categories.php:163
+#: elementor/widgets/product-grid.php:329
+#: elementor/widgets/project-grid.php:182
+#: elementor/widgets/section-heading.php:68
+#: elementor/widgets/ss7-showcase.php:90
+msgid "Description"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "Design System"
+msgstr ""
+
+#: inc/video-functions.php:434
+msgid "Details"
+msgstr ""
+
+#: single-bp_project.php:120
+msgid "Discuss a similar project on WhatsApp"
+msgstr ""
+
+#: front-page.php:218
+msgid "Dispatch arranged with your delivery schedule."
+msgstr ""
+
+#: inc/meta-fields.php:899
+#: inc/meta-fields.php:1162
+#: inc/taxonomies.php:236
+msgid "Display order"
+msgstr ""
+
+#: elementor/widgets/section-heading.php:83
+msgid "Divider color"
+msgstr ""
+
+#: inc/meta-fields.php:866
+#: inc/post-types.php:265
+#: elementor/widgets/video-grid.php:269
+msgid "Duration"
+msgstr ""
+
+#: inc/admin.php:995
+msgid "Dynamic content"
+msgstr ""
+
+#: inc/meta-fields.php:568
+msgid "e.g. 45000 or \"Ask for price\""
+msgstr ""
+
+#: inc/contact.php:59
+msgid "e.g. 50,000 bricks / 200 bags"
+msgstr ""
+
+#: inc/meta-fields.php:616
+msgid "e.g. Best Seller, New Arrival, Premium"
+msgstr ""
+
+#: inc/meta-fields.php:626
+msgid "e.g. BP-BRK-SS7"
+msgstr ""
+
+#: inc/meta-fields.php:971
+msgid "e.g. Bricks, cement and crush for grey structure"
+msgstr ""
+
+#: inc/meta-fields.php:1036
+msgid "e.g. Concept visual - not a completed BrickPoint supply project"
+msgstr ""
+
+#: inc/meta-fields.php:945
+msgid "e.g. DHA Lahore (only if verified)"
+msgstr ""
+
+#: inc/meta-fields.php:635
+msgid "e.g. Lahore & nearby districts - confirm on inquiry"
+msgstr ""
+
+#: inc/meta-fields.php:596
+msgid "e.g. Minimum 20,000 bricks per delivery"
+msgstr ""
+
+#: inc/meta-fields.php:587
+msgid "e.g. per 1000 bricks, per bag, per ton, per sq.ft"
+msgstr ""
+
+#: inc/contact.php:52
+msgid "e.g. SS7 bricks, cement, crush"
+msgstr ""
+
+#: inc/meta-fields.php:578
+msgid "e.g. Starting from / Per 1000 pcs / Negotiable"
+msgstr ""
+
+#: inc/meta-fields.php:756
+msgid "Each line becomes a bullet point on the product page."
+msgstr ""
+
+#: inc/post-types.php:171
+msgid "Edit Location"
+msgstr ""
+
+#: inc/admin.php:590
+msgid "Edit navigation →"
+msgstr ""
+
+#: inc/post-types.php:44
+msgid "Edit Product"
+msgstr ""
+
+#: inc/taxonomies.php:27
+msgid "Edit Product Category"
+msgstr ""
+
+#: inc/post-types.php:132
+msgid "Edit Project"
+msgstr ""
+
+#: inc/taxonomies.php:90
+msgid "Edit Project Category"
+msgstr ""
+
+#: page.php:58
+msgid "Edit this page"
+msgstr ""
+
+#: inc/post-types.php:93
+msgid "Edit Video"
+msgstr ""
+
+#: inc/taxonomies.php:60
+msgid "Edit Video Category"
+msgstr ""
+
+#: inc/taxonomies.php:457
+msgid "Electric Conduit Pipes"
+msgstr ""
+
+#: inc/admin.php:956
+msgid "Elementor Pro detected - you can build Header, Footer, Single, Archive and 404 templates in Theme Builder."
+msgstr ""
+
+#: inc/admin.php:957
+msgid "Elementor Pro is required to edit Header, Footer, Single Product, Product Archive, Single Video, Video Archive, Blog Archive and 404 templates visually. Without it the theme uses its own complete templates, which already match the design."
+msgstr ""
+
+#: inc/admin.php:505
+#: inc/admin.php:506
+#: inc/admin.php:949
+msgid "Elementor Templates"
+msgstr ""
+
+#: inc/admin.php:969
+msgid "Elementor Theme Builder condition"
+msgstr ""
+
+#: inc/contact.php:468
+msgid "Email"
+msgstr ""
+
+#: inc/contact.php:36
+msgid "Email (optional)"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Email address"
+msgstr ""
+
+#: inc/admin.php:760
+msgid "Email for inquiries"
+msgstr ""
+
+#: elementor/widgets/hero.php:340
+msgid "Enable SS7 brick animation"
+msgstr ""
+
+#: 404.php:17
+msgid "Error 404"
+msgstr ""
+
+#: inc/admin.php:927
+msgid "Every product button opens wa.me with a prefilled message containing the product name, category, price, unit and a closing line. Edit the wording in Customize → BrickPoint Theme → WhatsApp Inquiry. The number itself comes from Theme Settings."
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Example: 03152850818"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Example: 923152850818 - used in every WhatsApp link."
+msgstr ""
+
+#: inc/admin.php:889
+msgid "Excerpt = short description (used on cards). Main editor = full description."
+msgstr ""
+
+#: inc/product-functions.php:483
+msgid "Explore"
+msgstr ""
+
+#: archive-bp_video.php:17
+#: page-templates/page-videos.php:29
+msgid "Explore our products, production process, construction materials, projects, and company updates through video."
+msgstr ""
+
+#: elementor/widgets/hero.php:102
+msgid "Explore Products"
+msgstr ""
+
+#: front-page.php:123
+msgid "Explore the categories we supply most often. Every category page shows the products, specifications and a direct WhatsApp line to our team."
+msgstr ""
+
+#: inc/post-types.php:361
+msgid "External"
+msgstr ""
+
+#: inc/meta-fields.php:837
+msgid "External video URL (mp4/webm)"
+msgstr ""
+
+#: inc/meta-fields.php:1035
+msgid "Extra disclaimer line (optional)"
+msgstr ""
+
+#: elementor/widgets/base.php:81
+#: elementor/widgets/hero.php:71
+#: elementor/widgets/hero.php:420
+#: elementor/widgets/section-heading.php:66
+#: elementor/widgets/ss7-showcase.php:72
+msgid "Eyebrow"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Eyebrow text"
+msgstr ""
+
+#: inc/helpers.php:337
+#: elementor/widgets/social-links.php:84
+msgid "Facebook"
+msgstr ""
+
+#: elementor/widgets/stats.php:82
+msgid "Factory"
+msgstr ""
+
+#: elementor/widgets/product-specs.php:150
+msgid "Feature check icon color"
+msgstr ""
+
+#: elementor/widgets/product-specs.php:134
+msgid "Feature items"
+msgstr ""
+
+#: front-page.php:146
+#: single-bp_video.php:43
+#: inc/post-types.php:249
+#: inc/post-types.php:266
+#: inc/post-types.php:283
+#: inc/post-types.php:390
+msgid "Featured"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:271
+msgid "Featured badge"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:141
+msgid "Featured first"
+msgstr ""
+
+#: inc/admin.php:888
+msgid "Featured image = main product image. Product Details box = price, price label, unit, availability, badge, SKU."
+msgstr ""
+
+#: inc/meta-fields.php:1172
+msgid "Featured location"
+msgstr ""
+
+#: inc/meta-fields.php:646
+msgid "Featured products can be shown on the homepage and in \"featured only\" grids."
+msgstr ""
+
+#: elementor/widgets/product-grid.php:85
+msgid "Featured products only"
+msgstr ""
+
+#: inc/meta-fields.php:1045
+msgid "Featured project"
+msgstr ""
+
+#: elementor/widgets/project-grid.php:78
+msgid "Featured projects only"
+msgstr ""
+
+#: inc/meta-fields.php:910
+msgid "Featured video"
+msgstr ""
+
+#: inc/taxonomies.php:220
+msgid "Featured video (from Videos)"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:80
+msgid "Featured videos only"
+msgstr ""
+
+#: elementor/widgets/product-specs.php:86
+msgid "Features heading"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:136
+msgid "Field background"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:147
+msgid "Field border color"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:182
+msgid "Field radius (px)"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:105
+msgid "Fields"
+msgstr ""
+
+#: archive-bp_product.php:34
+msgid "Filter products by category"
+msgstr ""
+
+#: archive-bp_project.php:33
+msgid "Filter projects"
+msgstr ""
+
+#: inc/project-functions.php:487
+msgid "Fine Bricks Company"
+msgstr ""
+
+#: inc/project-functions.php:486
+msgid "Fine Bricks Company – Raja Jang"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:216
+msgid "Flat (minimal)"
+msgstr ""
+
+#: inc/admin.php:725
+msgid "Flush permalinks"
+msgstr ""
+
+#: inc/admin.php:780
+#: inc/admin.php:974
+#: inc/customizer.php:347
+msgid "Footer"
+msgstr ""
+
+#: inc/admin.php:783
+#: inc/customizer.php:352
+msgid "Footer about text"
+msgstr ""
+
+#: inc/customizer.php:354
+msgid "Footer note / companies line"
+msgstr ""
+
+#: inc/setup.php:51
+msgid "Footer – Company"
+msgstr ""
+
+#: inc/setup.php:50
+msgid "Footer – Product Categories"
+msgstr ""
+
+#: inc/setup.php:52
+msgid "Footer – Support & Legal"
+msgstr ""
+
+#: inc/admin.php:974
+msgid "Footer → Entire Site"
+msgstr ""
+
+#: footer.php:131
+#: inc/admin.php:53
+#: inc/admin.php:228
+#: inc/admin.php:256
+msgid "For Builders"
+msgstr ""
+
+#: inc/admin.php:54
+msgid "For Builders page"
+msgstr ""
+
+#: footer.php:132
+#: inc/admin.php:57
+#: inc/admin.php:257
+msgid "For Construction Companies"
+msgstr ""
+
+#: inc/admin.php:58
+msgid "For Construction Companies page"
+msgstr ""
+
+#: footer.php:130
+#: inc/admin.php:49
+#: inc/admin.php:227
+#: inc/admin.php:255
+msgid "For Contractors"
+msgstr ""
+
+#: inc/admin.php:50
+msgid "For Contractors page"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:59
+msgid "Form"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:125
+msgid "Form background"
+msgstr ""
+
+#: inc/meta-fields.php:569
+msgid "Free text. Leave empty to hide the price and show only the price label."
+msgstr ""
+
+#: front-page.php:98
+#: inc/shortcodes.php:417
+#: elementor/widgets/stats.php:146
+msgid "From bricks and cement to steel, crush, sand and finishing items."
+msgstr ""
+
+#: front-page.php:306
+msgid "From the Bhatta to Your Building"
+msgstr ""
+
+#: elementor/widgets/hero.php:210
+msgid "Full hero background"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:169
+msgid "Full width"
+msgstr ""
+
+#: elementor/widgets/product-gallery.php:59
+msgid "Gallery"
+msgstr ""
+
+#: inc/meta-fields.php:256
+msgid "Gallery, Video & Documents"
+msgstr ""
+
+#: inc/admin.php:890
+msgid "Gallery, Video & Documents box = extra images, product video, brochure PDF."
+msgstr ""
+
+#: elementor/widgets/project-grid.php:134
+#: elementor/widgets/social-links.php:188
+#: elementor/widgets/video-grid.php:167
+msgid "Gap (px)"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:190
+msgid "Gap between cards (px)"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:82
+msgid "General / custom message"
+msgstr ""
+
+#: single-bp_location.php:118
+#: inc/project-functions.php:321
+msgid "Get Directions"
+msgstr ""
+
+#: inc/meta-fields.php:1097
+msgid "Get Directions link (optional)"
+msgstr ""
+
+#: inc/whatsapp.php:303
+msgid "Get Quote"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid "Global colors, typography and spacing. These feed CSS variables used by the whole theme and the Elementor widgets."
+msgstr ""
+
+#: inc/post-types.php:299
+msgid "Google Maps"
+msgstr ""
+
+#: elementor/widgets/location-cards.php:120
+msgid "Google Maps / Directions / Call / WhatsApp buttons"
+msgstr ""
+
+#: inc/meta-fields.php:1087
+msgid "Google Maps link"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Greeting line"
+msgstr ""
+
+#: inc/taxonomies.php:506
+msgid "Grey Structure"
+msgstr ""
+
+#: elementor/widgets/stats.php:87
+msgid "Grid"
+msgstr ""
+
+#: inc/taxonomies.php:36
+msgid "Groups products (Bricks, SS7 Bricks, Cement, Crush, Sand, Steel, Pipes, Paints…). Each category supports an image, icon, banner and a featured video."
+msgstr ""
+
+#: inc/taxonomies.php:96
+msgid "Groups projects (Residential, Commercial, Industrial, Infrastructure, Housing Societies…)."
+msgstr ""
+
+#: inc/taxonomies.php:66
+msgid "Groups videos (SS7 Bricks, Brick Manufacturing, Our Bhattas, Quality, Projects, Construction Materials, Company…)."
+msgstr ""
+
+#: home.php:21
+msgid "Guides on bricks, cement, sand, crush, steel and construction-material planning."
+msgstr ""
+
+#: inc/admin.php:973
+msgid "Header"
+msgstr ""
+
+#: inc/admin.php:973
+msgid "Header → Entire Site"
+msgstr ""
+
+#: inc/admin.php:922
+msgid "Header, Footer, Single Product, Product Archive, Single Video, Video Archive, Projects, Single Post, Blog Archive and 404 templates need Elementor Pro (Theme Builder) to be edited visually. Without Pro, the theme’s own templates are used and they look complete out of the box."
+msgstr ""
+
+#: elementor/widgets/contact-form.php:67
+#: elementor/widgets/section-heading.php:56
+#: elementor/widgets/ss7-showcase.php:81
+#: elementor/widgets/ss7-showcase.php:290
+msgid "Heading"
+msgstr ""
+
+#: elementor/widgets/social-links.php:70
+msgid "Heading (optional)"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Heading font family"
+msgstr ""
+
+#: elementor/widgets/hero.php:80
+#: elementor/widgets/hero.php:418
+msgid "Headline"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Headline (one line per row)"
+msgstr ""
+
+#: inc/admin.php:496
+#: inc/admin.php:497
+#: inc/admin.php:873
+msgid "Help & Docs"
+msgstr ""
+
+#: inc/admin.php:601
+msgid "Help, shortcodes and Elementor guide"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:98
+msgid "Helps you see which page the inquiry came from."
+msgstr ""
+
+#: elementor/widgets/hero.php:41
+msgid "Hero (with video)"
+msgstr ""
+
+#: elementor/widgets/hero.php:386
+msgid "Hero background"
+msgstr ""
+
+#: elementor/widgets/hero.php:159
+msgid "Hero Video"
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Hero video (self-hosted MP4, muted loop)"
+msgstr ""
+
+#: inc/customizer.php:179
+msgid "Hero video badge label"
+msgstr ""
+
+#: elementor/widgets/product-gallery.php:83
+msgid "Hidden"
+msgstr ""
+
+#: inc/product-functions.php:639
+#: elementor/widgets/product-specs.php:88
+msgid "Highlights"
+msgstr ""
+
+#: inc/admin.php:23
+#: inc/admin.php:212
+#: inc/template-functions.php:70
+#: inc/template-functions.php:342
+msgid "Home"
+msgstr ""
+
+#: inc/admin.php:694
+msgid "Home, About, Products, Product Categories, SS7 Bricks, Construction Materials, For Contractors / Builders / Construction Companies, Blog, Contact, Privacy Policy and Terms & Conditions - with useful starter content and shortcodes."
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Homepage Hero"
+msgstr ""
+
+#: inc/taxonomies.php:505
+msgid "Housing Societies"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:222
+msgid "Hover animation"
+msgstr ""
+
+#: elementor/widgets/social-links.php:164
+msgid "Hover background"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:225
+msgid "Hover effect"
+msgstr ""
+
+#: inc/whatsapp.php:181
+msgid "I am contacting you about: %s"
+msgstr ""
+
+#: inc/whatsapp.php:76
+msgid "I am interested in the following product:"
+msgstr ""
+
+#: inc/whatsapp.php:155
+msgid "I would like to inquire about your %1$s: %2$s"
+msgstr ""
+
+#: elementor/widgets/stats.php:74
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/product-categories.php:179
+msgid "Icon background"
+msgstr ""
+
+#: elementor/widgets/product-categories.php:168
+#: elementor/widgets/social-links.php:176
+#: elementor/widgets/stats.php:185
+msgid "Icon color"
+msgstr ""
+
+#: elementor/widgets/social-links.php:130
+msgid "Icon size (px)"
+msgstr ""
+
+#: inc/admin.php:724
+msgid "If a product, video or location page shows a 404, flush permalinks."
+msgstr ""
+
+#: inc/admin.php:923
+msgid "If Elementor Pro displays a “BrickPoint” template in its library list, choose the “BrickPoint Header (Default)” / “BrickPoint Footer (Default)” entries to start from the theme design."
+msgstr ""
+
+#: inc/project-functions.php:132
+msgid "Illustrative construction reference"
+msgstr ""
+
+#: single-bp_project.php:48
+msgid "Illustrative construction reference — this visual shows construction context and is not a claim of supply to a named developer or society."
+msgstr ""
+
+#: elementor/widgets/project-grid.php:198
+msgid "Illustrative label color"
+msgstr ""
+
+#: inc/post-types.php:245
+#: inc/post-types.php:280
+#: inc/post-types.php:297
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/location-cards.php:152
+#: elementor/widgets/product-categories.php:136
+#: elementor/widgets/product-grid.php:302
+#: elementor/widgets/project-grid.php:155
+msgid "Image aspect ratio"
+msgstr ""
+
+#: elementor/widgets/product-categories.php:126
+msgid "Image card"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:206
+msgid "Image fit"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:217
+msgid "Image overlay"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:239
+msgid "Image side"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:230
+#: elementor/widgets/video-grid.php:226
+msgid "Image zoom"
+msgstr ""
+
+#: inc/meta-fields.php:1190
+msgid "In Stock"
+msgstr ""
+
+#: inc/taxonomies.php:503
+msgid "Industrial"
+msgstr ""
+
+#: inc/taxonomies.php:504
+msgid "Infrastructure"
+msgstr ""
+
+#: elementor/widgets/hero.php:209
+msgid "Inline below the text"
+msgstr ""
+
+#: elementor/widgets/video-card.php:101
+msgid "Inline player"
+msgstr ""
+
+#: taxonomy-bp_product_category.php:56
+msgid "Inquire about %s"
+msgstr ""
+
+#: inc/post-types.php:204
+msgctxt "post type general name"
+msgid "Inquiries"
+msgstr ""
+
+#: inc/post-types.php:206
+msgctxt "admin menu"
+msgid "Inquiries"
+msgstr ""
+
+#: inc/post-types.php:208
+msgid "Inquiries"
+msgstr ""
+
+#: inc/admin.php:583
+msgid "Inquiries received"
+msgstr ""
+
+#: inc/post-types.php:205
+msgctxt "post type singular name"
+msgid "Inquiry"
+msgstr ""
+
+#: inc/contact.php:463
+msgid "Inquiry details"
+msgstr ""
+
+#: archive-bp_video.php:16
+#: page-templates/page-videos.php:28
+msgid "Inside BrickPoint"
+msgstr ""
+
+#: inc/admin.php:420
+msgid "Inside our bhatta (add your video)"
+msgstr ""
+
+#: inc/helpers.php:341
+#: elementor/widgets/social-links.php:85
+msgid "Instagram"
+msgstr ""
+
+#: inc/taxonomies.php:460
+msgid "Insulation and Membrane"
+msgstr ""
+
+#: inc/ajax.php:240
+msgid "Item"
+msgstr ""
+
+#: elementor/widgets/stats.php:64
+msgid "Items"
+msgstr ""
+
+#: inc/meta-fields.php:736
+#: elementor/widgets/ss7-showcase.php:181
+msgid "Label"
+msgstr ""
+
+#: inc/project-functions.php:506
+msgid "Lahore, Punjab, Pakistan"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:141
+msgid "Large"
+msgstr ""
+
+#: inc/admin.php:58
+msgid "Large-scale supply coordination"
+msgstr ""
+
+#: elementor/widgets/stats.php:80
+msgid "Layers"
+msgstr ""
+
+#: elementor/widgets/location-cards.php:142
+#: elementor/widgets/product-categories.php:112
+#: elementor/widgets/product-grid.php:180
+#: elementor/widgets/project-grid.php:124
+#: elementor/widgets/video-card.php:97
+#: elementor/widgets/video-grid.php:157
+msgid "Layout"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:231
+msgid "Layout & Animation"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Leave a field empty to hide that network everywhere (header, footer, share bar)."
+msgstr ""
+
+#: inc/meta-fields.php:1099
+msgid "Leave empty and the Maps link is used for directions too."
+msgstr ""
+
+#: elementor/widgets/hero.php:129
+msgid "Leave empty for the Contact page"
+msgstr ""
+
+#: elementor/widgets/hero.php:111
+msgid "Leave empty for the Products page"
+msgstr ""
+
+#: elementor/widgets/product-gallery.php:70
+msgid "Leave empty inside a Single Product template to use the product being viewed."
+msgstr ""
+
+#: elementor/widgets/product-specs.php:70
+msgid "Leave empty inside a Single Product template."
+msgstr ""
+
+#: inc/meta-fields.php:946
+msgid "Leave empty rather than guessing. Never claim a society or developer you did not supply."
+msgstr ""
+
+#: inc/meta-fields.php:800
+msgid "Leave empty to auto-generate: product, category, price and unit are filled automatically."
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:104
+msgid "Leave empty to use the default message from the Customizer."
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:114
+msgid "Leave empty to use the number from Theme Settings."
+msgstr ""
+
+#: elementor/widgets/product-price.php:73
+msgid "Leave empty to use the product being viewed (best inside a Single Product template)."
+msgstr ""
+
+#: inc/admin.php:26
+msgid "Leave this page empty to use the BrickPoint homepage sections, or design it with Elementor using the BrickPoint widgets."
+msgstr ""
+
+#: elementor/widgets/base.php:114
+#: elementor/widgets/breadcrumbs.php:82
+#: elementor/widgets/ss7-showcase.php:244
+#: elementor/widgets/whatsapp-button.php:188
+msgid "Left"
+msgstr ""
+
+#: elementor/widgets/product-gallery.php:82
+msgid "Left of the main image"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:227
+msgid "Lift"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:229
+msgid "Lift + shadow"
+msgstr ""
+
+#: inc/customizer.php:258
+msgid "Light neutral / sand"
+msgstr ""
+
+#: inc/taxonomies.php:463
+msgid "Lights"
+msgstr ""
+
+#: inc/meta-fields.php:1191
+msgid "Limited Stock"
+msgstr ""
+
+#: elementor/widgets/breadcrumbs.php:107
+msgid "Link color"
+msgstr ""
+
+#: inc/enqueue.php:108
+msgid "Link copied"
+msgstr ""
+
+#: inc/customizer.php:272
+msgid "Load Google Fonts"
+msgstr ""
+
+#: inc/enqueue.php:102
+msgid "Load More"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:168
+#: elementor/widgets/video-grid.php:135
+msgid "Load more button"
+msgstr ""
+
+#: inc/product-functions.php:320
+#: elementor/widgets/product-grid.php:478
+msgid "Load More Products"
+msgstr ""
+
+#: inc/video-functions.php:799
+#: elementor/widgets/video-grid.php:459
+msgid "Load More Videos"
+msgstr ""
+
+#: front-page.php:88
+#: inc/shortcodes.php:407
+#: elementor/widgets/stats.php:136
+msgid "Loading and dispatch coordinated with your site schedule."
+msgstr ""
+
+#: front-page.php:217
+msgid "Loading support"
+msgstr ""
+
+#: inc/enqueue.php:101
+msgid "Loading…"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Loads muted and looped after the page is interactive, so it never blocks rendering."
+msgstr ""
+
+#: single-bp_project.php:58
+#: inc/contact.php:408
+#: inc/contact.php:472
+#: inc/post-types.php:281
+msgid "Location"
+msgstr ""
+
+#: inc/post-types.php:167
+msgctxt "post type singular name"
+msgid "Location"
+msgstr ""
+
+#: inc/meta-fields.php:944
+msgid "Location / area"
+msgstr ""
+
+#: elementor/widgets/location-cards.php:38
+msgid "Location Cards"
+msgstr ""
+
+#: single-bp_location.php:87
+msgid "Location details"
+msgstr ""
+
+#: inc/meta-fields.php:310
+msgid "Location Details"
+msgstr ""
+
+#: inc/post-types.php:177
+msgid "Location Image"
+msgstr ""
+
+#: elementor/widgets/location-cards.php:177
+msgid "Location name"
+msgstr ""
+
+#: elementor/widgets/stats.php:85
+msgid "Location pin"
+msgstr ""
+
+#: single-bp_location.php:68
+#: inc/meta-fields.php:1136
+msgid "Location video"
+msgstr ""
+
+#: elementor/widgets/location-cards.php:80
+msgid "Location video (if set)"
+msgstr ""
+
+#: 404.php:33
+#: footer.php:129
+#: footer.php:196
+#: inc/admin.php:219
+#: inc/admin.php:247
+#: inc/admin.php:577
+msgid "Locations"
+msgstr ""
+
+#: inc/post-types.php:166
+msgctxt "post type general name"
+msgid "Locations"
+msgstr ""
+
+#: inc/post-types.php:168
+msgctxt "admin menu"
+msgid "Locations"
+msgstr ""
+
+#: inc/admin.php:982
+msgid "Locations (/locations/)"
+msgstr ""
+
+#: inc/admin.php:648
+msgid "Locations created: %d."
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Logo and favicon are managed in WordPress → Site Identity. These fields power the header top bar, footer and buttons."
+msgstr ""
+
+#: inc/meta-fields.php:901
+msgid "Lower numbers appear first in custom-ordered grids."
+msgstr ""
+
+#: inc/taxonomies.php:238
+msgid "Lower numbers appear first."
+msgstr ""
+
+#: inc/meta-fields.php:1192
+msgid "Made to Order"
+msgstr ""
+
+#: inc/admin.php:578
+msgid "Manage locations →"
+msgstr ""
+
+#: inc/admin.php:560
+msgid "Manage products →"
+msgstr ""
+
+#: inc/admin.php:572
+msgid "Manage projects →"
+msgstr ""
+
+#: inc/admin.php:566
+msgid "Manage videos →"
+msgstr ""
+
+#: inc/admin.php:30
+msgid "Management"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:101
+msgid "Manual selection"
+msgstr ""
+
+#: elementor/widgets/location-cards.php:132
+msgid "Map buttons only render when a real Google Maps link is saved on the location. The theme never displays a fake map."
+msgstr ""
+
+#: inc/meta-fields.php:645
+msgid "Mark as featured product"
+msgstr ""
+
+#: inc/admin.php:932
+msgid "Mark concept imagery with “Illustrative construction reference” (Projects → edit → checkbox)."
+msgstr ""
+
+#: inc/meta-fields.php:1068
+#: inc/project-functions.php:478
+#: inc/project-functions.php:496
+msgid "Masha Allah Bricks Company"
+msgstr ""
+
+#: inc/admin.php:706
+msgid "Masha Allah Bricks Company (Ram Thaman), Fine Bricks Company (Raja Jang), Masha Allah Bricks Company (Sattoki) and the BrickPoint office - each with the real Google Maps link you provided."
+msgstr ""
+
+#: inc/project-functions.php:477
+msgid "Masha Allah Bricks Company – Ram Thaman"
+msgstr ""
+
+#: inc/project-functions.php:495
+msgid "Masha Allah Bricks Company – Sattoki"
+msgstr ""
+
+#: inc/meta-fields.php:1069
+msgid "Masha Allah Bricks Company • Fine Bricks Company • SS7 Bricks"
+msgstr ""
+
+#: inc/shortcodes.php:412
+#: elementor/widgets/stats.php:141
+msgid "Masha Allah Bricks Company, Fine Bricks Company and SS7 Bricks."
+msgstr ""
+
+#: archive-bp_location.php:17
+msgid "Masha Allah Bricks Company, Fine Bricks Company and the BrickPoint office. Call or WhatsApp before visiting so loading and paperwork are ready."
+msgstr ""
+
+#: inc/contact.php:406
+#: inc/contact.php:470
+msgid "Material"
+msgstr ""
+
+#: inc/admin.php:58
+msgid "Material documentation on request"
+msgstr ""
+
+#: inc/admin.php:54
+msgid "Material sourcing support for builders who need consistent quality across multiple stages of a build - from grey structure to finishing."
+msgstr ""
+
+#: front-page.php:367
+#: inc/template-functions.php:345
+msgid "Materials"
+msgstr ""
+
+#: front-page.php:122
+msgid "Materials for every stage of construction"
+msgstr ""
+
+#: archive-bp_project.php:19
+msgid "Materials from BrickPoint are used across residential, commercial and infrastructure work. Visuals labelled “illustrative construction reference” are for context only."
+msgstr ""
+
+#: front-page.php:83
+#: inc/shortcodes.php:402
+#: elementor/widgets/stats.php:131
+msgid "Materials sourced from our own production and trusted suppliers."
+msgstr ""
+
+#: front-page.php:332
+msgid "Materials That Become Landmarks"
+msgstr ""
+
+#: single-bp_project.php:116
+#: inc/product-functions.php:743
+msgid "Materials used"
+msgstr ""
+
+#: elementor/widgets/hero.php:365
+#: elementor/widgets/whatsapp-button.php:140
+msgid "Medium"
+msgstr ""
+
+#: header.php:126
+msgid "Menu"
+msgstr ""
+
+#: inc/admin.php:589
+msgid "Menus"
+msgstr ""
+
+#: inc/contact.php:68
+msgid "Message"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:76
+msgid "Message context"
+msgstr ""
+
+#: inc/taxonomies.php:233
+msgid "Message prefilled when someone taps this category’s WhatsApp button."
+msgstr ""
+
+#: inc/admin.php:66
+msgid "Messages sent through WhatsApp links are handled by WhatsApp under its own privacy terms. This site does not sell or share your details with third parties, and does not process online payments."
+msgstr ""
+
+#: inc/post-types.php:212
+msgid "Messages submitted through the contact and quotation form. Stored privately - never publicly viewable."
+msgstr ""
+
+#: elementor/widgets/product-price.php:110
+msgid "Meta labels"
+msgstr ""
+
+#: elementor/widgets/product-price.php:82
+msgid "Meta list (category, minimum order, delivery area, reference)"
+msgstr ""
+
+#: elementor/widgets/hero.php:425
+msgid "Minimum hero height"
+msgstr ""
+
+#: inc/product-functions.php:892
+msgid "Minimum order"
+msgstr ""
+
+#: inc/meta-fields.php:595
+msgid "Minimum order / quantity note"
+msgstr ""
+
+#: inc/meta-fields.php:1126
+msgid "Mon–Sat, 9:00 am – 7:00 pm"
+msgstr ""
+
+#: front-page.php:106
+msgid "More about BrickPoint"
+msgstr ""
+
+#: single-bp_video.php:98
+msgid "More videos"
+msgstr ""
+
+#: inc/admin.php:50
+msgid "Multiple product categories on one inquiry"
+msgstr ""
+
+#: front-page.php:92
+#: inc/shortcodes.php:411
+#: elementor/widgets/stats.php:140
+msgid "Multiple production locations"
+msgstr ""
+
+#: inc/customizer.php:260
+msgid "Muted text"
+msgstr ""
+
+#: inc/contact.php:466
+msgid "Name"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:107
+msgid "Name, Phone / WhatsApp, Email, Company, Required material, Quantity, Delivery location and Message. Field definitions can be extended with the <code>brickpoint_contact_fields</code> filter."
+msgstr ""
+
+#: inc/admin.php:657
+msgid "Navigation menus created/assigned: %d (Primary, Top Bar and three footer columns). Edit them under Appearance → Menus."
+msgstr ""
+
+#: single-bp_product.php:102
+msgid "Need a quotation?"
+msgstr ""
+
+#: elementor/widgets/social-links.php:79
+msgid "Networks to show"
+msgstr ""
+
+#: inc/admin.php:931
+msgid "Never publish certifications, awards, years of experience, client counts or supply claims for named societies/developers unless verified."
+msgstr ""
+
+#: inc/post-types.php:172
+msgid "New Location"
+msgstr ""
+
+#: inc/post-types.php:43
+msgid "New Product"
+msgstr ""
+
+#: inc/taxonomies.php:31
+msgid "New Product Category Name"
+msgstr ""
+
+#: inc/post-types.php:133
+msgid "New Project"
+msgstr ""
+
+#: inc/taxonomies.php:93
+msgid "New Project Category Name"
+msgstr ""
+
+#: inc/post-types.php:94
+msgid "New Video"
+msgstr ""
+
+#: inc/taxonomies.php:63
+msgid "New Video Category Name"
+msgstr ""
+
+#: template-parts/comments.php:48
+msgid "Newer comments"
+msgstr ""
+
+#: single.php:130
+#: inc/enqueue.php:113
+#: inc/template-functions.php:318
+msgid "Next"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:99
+#: elementor/widgets/video-grid.php:93
+msgid "No - use the query above"
+msgstr ""
+
+#: inc/post-types.php:210
+msgid "No inquiries yet."
+msgstr ""
+
+#: inc/enqueue.php:104
+msgid "No items found"
+msgstr ""
+
+#: inc/post-types.php:176
+msgid "No locations found."
+msgstr ""
+
+#: archive-bp_location.php:34
+msgid "No locations published yet"
+msgstr ""
+
+#: inc/project-functions.php:434
+msgid "No locations published yet. Add your bhatta and office locations in WordPress → Locations."
+msgstr ""
+
+#: elementor/widgets/location-cards.php:203
+msgid "No locations published yet. Add your bhattas and office in WordPress → Locations."
+msgstr ""
+
+#: page-templates/page-locations.php:47
+msgid "No locations published yet. Create the BrickPoint locations from BrickPoint → Setup & Content."
+msgstr ""
+
+#: inc/enqueue.php:103
+msgid "No more items"
+msgstr ""
+
+#: inc/admin.php:70
+msgid "No online payment is processed on this website. Project visuals marked “illustrative construction reference” are for context only and are not a claim of supply to any named project, developer or housing society unless explicitly stated."
+msgstr ""
+
+#: home.php:43
+msgid "No posts yet"
+msgstr ""
+
+#: inc/product-functions.php:371
+msgid "No product categories found."
+msgstr ""
+
+#: elementor/widgets/product-categories.php:208
+msgid "No product categories yet. Add them in Products → Product Categories."
+msgstr ""
+
+#: elementor/widgets/product-grid.php:448
+msgid "No products found for this query."
+msgstr ""
+
+#: inc/post-types.php:49
+msgid "No products found in Trash."
+msgstr ""
+
+#: inc/post-types.php:48
+msgid "No products found."
+msgstr ""
+
+#: inc/product-functions.php:278
+msgid "No products found. Add products in WordPress → Products, or adjust the category filter."
+msgstr ""
+
+#: taxonomy-bp_product_category.php:112
+msgid "No products in this category yet"
+msgstr ""
+
+#: archive-bp_product.php:60
+msgid "No products published yet"
+msgstr ""
+
+#: inc/post-types.php:137
+msgid "No projects found."
+msgstr ""
+
+#: taxonomy-bp_project_category.php:38
+msgid "No projects in this category yet"
+msgstr ""
+
+#: archive-bp_project.php:55
+msgid "No projects published yet"
+msgstr ""
+
+#: inc/project-functions.php:198
+msgid "No projects published yet. Add projects in WordPress → Projects."
+msgstr ""
+
+#: elementor/widgets/project-grid.php:231
+msgid "No projects yet. Add them in WordPress → Projects. Mark concept visuals with the “illustrative” checkbox so visitors are not misled."
+msgstr ""
+
+#: search.php:58
+msgid "No results found"
+msgstr ""
+
+#: inc/ajax.php:246
+msgid "No results found."
+msgstr ""
+
+#: elementor/widgets/social-links.php:228
+msgid "No social links saved yet. Add them in BrickPoint → Theme Settings → Social links."
+msgstr ""
+
+#: single-bp_video.php:62
+msgid "No video source saved for this entry. Edit the video and add a YouTube/Vimeo URL or upload an MP4 file."
+msgstr ""
+
+#: inc/post-types.php:98
+msgid "No videos found."
+msgstr ""
+
+#: elementor/widgets/video-grid.php:430
+msgid "No videos found. Add videos in WordPress → Videos and assign them to a category."
+msgstr ""
+
+#: taxonomy-bp_video_category.php:58
+msgid "No videos in this category yet"
+msgstr ""
+
+#: page-templates/page-videos.php:53
+msgid "No videos published yet. Add them in WordPress → Videos."
+msgstr ""
+
+#: archive-bp_video.php:57
+msgid "No videos yet"
+msgstr ""
+
+#: inc/video-functions.php:758
+msgid "No videos yet. Add your first video in WordPress → Videos."
+msgstr ""
+
+#: elementor/widgets/product-grid.php:167
+#: elementor/widgets/product-grid.php:232
+#: elementor/widgets/ss7-showcase.php:258
+#: elementor/widgets/video-grid.php:134
+#: elementor/widgets/video-grid.php:229
+msgid "None"
+msgstr ""
+
+#: archive-bp_location.php:43
+msgid "Not sure which location to visit?"
+msgstr ""
+
+#: index.php:39
+msgid "Nothing found"
+msgstr ""
+
+#: archive.php:36
+msgid "Nothing here yet"
+msgstr ""
+
+#: elementor/widgets/stats.php:114
+msgid "Number / value (optional)"
+msgstr ""
+
+#: elementor/widgets/product-categories.php:79
+msgid "Number of categories"
+msgstr ""
+
+#: elementor/widgets/location-cards.php:69
+msgid "Number of locations"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:122
+msgid "Number of products"
+msgstr ""
+
+#: elementor/widgets/project-grid.php:87
+msgid "Number of projects"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:104
+msgid "Number of videos"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:169
+#: elementor/widgets/video-grid.php:136
+msgid "Numbered pagination"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Office / head office address"
+msgstr ""
+
+#: inc/admin.php:765
+msgid "Office address"
+msgstr ""
+
+#: template-parts/comments.php:47
+msgid "Older comments"
+msgstr ""
+
+#: inc/meta-fields.php:755
+msgid "One feature per line, e.g.\nHand-moulded finish\nUniform size and edges\nConsistent strength"
+msgstr ""
+
+#: inc/taxonomies.php:207
+msgid "One line shown under the category name on cards."
+msgstr ""
+
+#: single-bp_project.php:29
+#: inc/meta-fields.php:959
+#: inc/project-functions.php:107
+msgid "Ongoing"
+msgstr ""
+
+#: elementor/widgets/stats.php:116
+msgid "Only add a number you can verify. Otherwise leave empty and the icon is shown instead."
+msgstr ""
+
+#: elementor/widgets/product-categories.php:69
+msgid "Only categories marked “show on homepage”"
+msgstr ""
+
+#: inc/meta-fields.php:636
+msgid "Only state what you can deliver. Leave empty to omit."
+msgstr ""
+
+#: inc/admin.php:858
+msgid "Open full Customizer (hero video, colors, fonts)"
+msgstr ""
+
+#: elementor/widgets/video-card.php:128
+msgid "Open in lightbox"
+msgstr ""
+
+#: inc/admin.php:1020
+msgid "Open Setup & Content"
+msgstr ""
+
+#: inc/admin.php:598
+msgid "Open the Customizer (hero video, design tokens)"
+msgstr ""
+
+#: inc/admin.php:770
+#: inc/customizer.php:126
+#: elementor/widgets/location-cards.php:110
+msgid "Opening hours"
+msgstr ""
+
+#: inc/meta-fields.php:1125
+msgid "Opening hours (optional)"
+msgstr ""
+
+#: inc/meta-fields.php:617
+msgid "Optional short label shown on the product image. Leave empty for none."
+msgstr ""
+
+#: inc/setup.php:98
+msgid "Optional sidebar shown next to the blog. Leave empty to keep the blog full width."
+msgstr ""
+
+#: inc/taxonomies.php:202
+msgid "Optional. Available: brick, layers, truck, factory, shield, grid, star, pin, check."
+msgstr ""
+
+#: inc/admin.php:909
+msgid "or"
+msgstr ""
+
+#: inc/meta-fields.php:704
+msgid "or brochure URL"
+msgstr ""
+
+#: inc/taxonomies.php:226
+msgid "or featured video URL"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "or hero video URL (YouTube/Vimeo/MP4)"
+msgstr ""
+
+#: inc/contact.php:170
+msgid "Or message us on WhatsApp"
+msgstr ""
+
+#: inc/meta-fields.php:686
+#: elementor/widgets/video-card.php:79
+msgid "or paste a video URL"
+msgstr ""
+
+#: inc/meta-fields.php:1007
+#: inc/meta-fields.php:1144
+#: elementor/widgets/ss7-showcase.php:125
+msgid "or video URL"
+msgstr ""
+
+#: elementor/widgets/hero.php:177
+msgid "or video URL (YouTube / Vimeo / .mp4)"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:150
+msgid "Order"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:133
+#: elementor/widgets/project-grid.php:98
+#: elementor/widgets/video-grid.php:115
+msgid "Order by"
+msgstr ""
+
+#: single-bp_video.php:75
+msgid "Order materials"
+msgstr ""
+
+#: footer.php:43
+#: front-page.php:422
+#: single-bp_video.php:81
+#: inc/product-functions.php:247
+#: inc/product-functions.php:818
+#: inc/whatsapp.php:200
+msgid "Order on WhatsApp"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:259
+msgid "Order on WhatsApp button"
+msgstr ""
+
+#: inc/taxonomies.php:465
+msgid "Other Construction Materials"
+msgstr ""
+
+#: single-bp_location.php:162
+msgid "Other locations"
+msgstr ""
+
+#: inc/taxonomies.php:490
+msgid "Other Videos"
+msgstr ""
+
+#: inc/taxonomies.php:478
+msgid "Our Bhattas"
+msgstr ""
+
+#: inc/admin.php:30
+msgid "Our commitment"
+msgstr ""
+
+#: archive-bp_location.php:16
+#: page-templates/page-locations.php:25
+msgid "Our Locations"
+msgstr ""
+
+#: inc/admin.php:30
+#: inc/admin.php:62
+msgid "Our locations"
+msgstr ""
+
+#: single.php:76
+msgid "Our materials"
+msgstr ""
+
+#: inc/meta-fields.php:1194
+msgid "Out of Stock"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:127
+msgid "Outline"
+msgstr ""
+
+#: elementor/widgets/social-links.php:101
+msgid "Outlined circles"
+msgstr ""
+
+#: elementor/widgets/breadcrumbs.php:67
+msgid "Output BreadcrumbList structured data"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:339
+msgid "Overlay opacity (%)"
+msgstr ""
+
+#: elementor/widgets/hero.php:451
+msgid "Padding"
+msgstr ""
+
+#: inc/admin.php:1018
+msgid "Pages, product categories and locations are created automatically. Review the setup screen to finish the last few steps."
+msgstr ""
+
+#: inc/template-functions.php:326
+msgid "Pagination"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:163
+#: elementor/widgets/video-grid.php:130
+msgid "Pagination / Load more"
+msgstr ""
+
+#: inc/taxonomies.php:462
+msgid "Paints"
+msgstr ""
+
+#: inc/taxonomies.php:33
+msgid "Parent Category"
+msgstr ""
+
+#: inc/taxonomies.php:34
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/meta-fields.php:1089
+msgid "Paste the real Google Maps share link. The map button only appears when this is filled."
+msgstr ""
+
+#: inc/video-functions.php:619
+msgid "Pause or play background video"
+msgstr ""
+
+#: inc/admin.php:674
+msgid "Permalinks flushed. Product, video and location archives should now resolve correctly."
+msgstr ""
+
+#: inc/contact.php:405
+#: inc/contact.php:467
+msgid "Phone"
+msgstr ""
+
+#: inc/admin.php:752
+msgid "Phone (displayed)"
+msgstr ""
+
+#: inc/contact.php:30
+msgid "Phone / WhatsApp"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Phone number (displayed)"
+msgstr ""
+
+#: inc/meta-fields.php:1116
+msgid "Phone number (optional)"
+msgstr ""
+
+#: inc/meta-fields.php:678
+msgid "Pick an existing video. It renders under the gallery."
+msgstr ""
+
+#: elementor/widgets/social-links.php:102
+msgid "Plain icons"
+msgstr ""
+
+#: single-bp_project.php:28
+#: inc/meta-fields.php:958
+#: inc/project-functions.php:106
+msgid "Planning / concept"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:265
+msgid "Play button"
+msgstr ""
+
+#: elementor/widgets/video-card.php:188
+#: elementor/widgets/video-grid.php:327
+msgid "Play button background"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:306
+msgid "Play button size (px)"
+msgstr ""
+
+#: inc/enqueue.php:110
+#: inc/video-functions.php:501
+msgid "Play video"
+msgstr ""
+
+#: inc/video-functions.php:356
+msgid "Play video: %s"
+msgstr ""
+
+#: inc/contact.php:235
+msgid "Please check the email address you entered."
+msgstr ""
+
+#: inc/enqueue.php:109
+msgid "Please enter a quantity"
+msgstr ""
+
+#: inc/contact.php:229
+msgid "Please fill in your name, phone number and required material."
+msgstr ""
+
+#: inc/taxonomies.php:458
+msgid "Plumbing Pipes and Fittings"
+msgstr ""
+
+#: front-page.php:147
+msgid "Popular materials this season"
+msgstr ""
+
+#: template-parts/comments.php:65
+msgid "Post Comment"
+msgstr ""
+
+#: elementor/widgets/hero.php:186
+#: elementor/widgets/video-card.php:89
+msgid "Poster image"
+msgstr ""
+
+#: elementor/widgets/hero.php:93
+msgid "Premium bricks and reliable construction materials for homes, commercial developments, and large-scale building projects."
+msgstr ""
+
+#: inc/admin.php:326
+msgid "Premium machine-moulded bricks with uniform size and clean edges, produced at our own bhattas."
+msgstr ""
+
+#: single.php:129
+#: inc/enqueue.php:112
+#: inc/template-functions.php:317
+msgid "Previous"
+msgstr ""
+
+#: inc/post-types.php:246
+#: elementor/widgets/product-grid.php:140
+#: elementor/widgets/product-grid.php:253
+#: elementor/widgets/product-grid.php:330
+#: elementor/widgets/product-price.php:78
+#: elementor/widgets/product-price.php:107
+msgid "Price"
+msgstr ""
+
+#: inc/meta-fields.php:577
+#: elementor/widgets/product-grid.php:254
+#: elementor/widgets/product-price.php:79
+#: elementor/widgets/product-price.php:108
+msgid "Price label"
+msgstr ""
+
+#: inc/template-functions.php:422
+msgid "Price on request"
+msgstr ""
+
+#: inc/admin.php:933
+msgid "Price, unit and availability are free text - they are never invented by the theme."
+msgstr ""
+
+#: inc/admin.php:70
+msgid "Prices, availability, quantities and delivery schedules shared through this website are indicative and confirmed in writing or over WhatsApp at the time of order. Product images are representative of the material category."
+msgstr ""
+
+#: elementor/widgets/hero.php:100
+#: elementor/widgets/ss7-showcase.php:133
+msgid "Primary button"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:354
+msgid "Primary button background"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Primary button label"
+msgstr ""
+
+#: inc/customizer.php:176
+#: elementor/widgets/hero.php:109
+#: elementor/widgets/ss7-showcase.php:142
+msgid "Primary button link"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:366
+msgid "Primary button text color"
+msgstr ""
+
+#: header.php:94
+msgid "Primary menu"
+msgstr ""
+
+#: inc/setup.php:49
+msgid "Primary Menu"
+msgstr ""
+
+#: footer.php:240
+#: inc/admin.php:65
+#: inc/admin.php:258
+msgid "Privacy Policy"
+msgstr ""
+
+#: front-page.php:213
+msgid "Produced and checked for structural use."
+msgstr ""
+
+#: inc/post-types.php:38
+msgctxt "post type singular name"
+msgid "Product"
+msgstr ""
+
+#: inc/post-types.php:40
+msgctxt "add new on admin bar"
+msgid "Product"
+msgstr ""
+
+#: elementor/widgets/product-gallery.php:67
+#: elementor/widgets/product-price.php:70
+#: elementor/widgets/product-specs.php:67
+#: elementor/widgets/whatsapp-button.php:90
+msgid "Product"
+msgstr ""
+
+#: inc/admin.php:975
+msgid "Product archive"
+msgstr ""
+
+#: inc/post-types.php:54
+msgid "Product Archive"
+msgstr ""
+
+#: inc/elementor.php:177
+msgid "Product Archive (BrickPoint)"
+msgstr ""
+
+#: inc/meta-fields.php:615
+#: elementor/widgets/product-grid.php:257
+msgid "Product badge"
+msgstr ""
+
+#: footer.php:79
+#: inc/admin.php:37
+#: inc/admin.php:214
+#: inc/admin.php:236
+#: inc/taxonomies.php:25
+#: elementor/widgets/product-categories.php:38
+msgid "Product Categories"
+msgstr ""
+
+#: inc/taxonomies.php:23
+msgctxt "taxonomy general name"
+msgid "Product Categories"
+msgstr ""
+
+#: inc/admin.php:599
+msgid "Product categories (images, icons, WhatsApp text)"
+msgstr ""
+
+#: inc/admin.php:977
+#: inc/whatsapp.php:143
+#: elementor/widgets/product-grid.php:74
+#: elementor/widgets/product-grid.php:250
+msgid "Product category"
+msgstr ""
+
+#: inc/taxonomies.php:24
+msgctxt "taxonomy singular name"
+msgid "Product Category"
+msgstr ""
+
+#: elementor/widgets/product-categories.php:100
+msgid "Product count"
+msgstr ""
+
+#: single-bp_product.php:90
+msgid "Product description"
+msgstr ""
+
+#: inc/meta-fields.php:247
+msgid "Product Details"
+msgstr ""
+
+#: inc/meta-fields.php:753
+msgid "Product features / highlights"
+msgstr ""
+
+#: elementor/widgets/product-gallery.php:38
+msgid "Product Gallery"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:42
+msgid "Product Grid"
+msgstr ""
+
+#: inc/post-types.php:50
+msgid "Product Image"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:249
+msgid "Product image"
+msgstr ""
+
+#: inc/meta-fields.php:567
+msgid "Product price"
+msgstr ""
+
+#: elementor/widgets/product-price.php:41
+msgid "Product Price & Availability"
+msgstr ""
+
+#: inc/post-types.php:55
+msgid "Product published."
+msgstr ""
+
+#: inc/meta-fields.php:732
+msgid "Product specifications"
+msgstr ""
+
+#: elementor/widgets/product-specs.php:38
+msgid "Product Specs & Features"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:251
+msgid "Product title"
+msgstr ""
+
+#: inc/post-types.php:56
+msgid "Product updated."
+msgstr ""
+
+#: inc/meta-fields.php:677
+msgid "Product video (from Videos)"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:116
+msgid "Product video (MP4)"
+msgstr ""
+
+#: inc/taxonomies.php:488
+msgid "Product Videos"
+msgstr ""
+
+#: inc/admin.php:640
+msgid "Product, video and project categories created (existing ones left untouched)."
+msgstr ""
+
+#: inc/project-functions.php:483
+msgid "Production and supply point for bricks and construction materials at Ram Thaman. Call or WhatsApp before visiting to confirm loading times."
+msgstr ""
+
+#: front-page.php:393
+msgid "Production locations & office"
+msgstr ""
+
+#: page-templates/page-locations.php:26
+msgid "Production sites and office. Google Maps links are provided for each location."
+msgstr ""
+
+#: archive-bp_product.php:20
+#: footer.php:258
+#: taxonomy-bp_product_category.php:20
+#: inc/admin.php:33
+#: inc/admin.php:213
+#: inc/admin.php:235
+msgid "Products"
+msgstr ""
+
+#: inc/post-types.php:37
+msgctxt "post type general name"
+msgid "Products"
+msgstr ""
+
+#: inc/post-types.php:39
+msgctxt "admin menu"
+msgid "Products"
+msgstr ""
+
+#: inc/meta-fields.php:1154
+msgid "Products available here"
+msgstr ""
+
+#: inc/admin.php:887
+msgid "Products → Add Product. Title = product name."
+msgstr ""
+
+#: inc/admin.php:554
+msgid "Products, videos, projects, locations and inquiries - all editable without touching code."
+msgstr ""
+
+#: inc/post-types.php:128
+msgctxt "post type singular name"
+msgid "Project"
+msgstr ""
+
+#: inc/elementor.php:193
+msgid "Project Archive (BrickPoint)"
+msgstr ""
+
+#: inc/taxonomies.php:86
+msgctxt "taxonomy general name"
+msgid "Project Categories"
+msgstr ""
+
+#: inc/taxonomies.php:88
+msgid "Project Categories"
+msgstr ""
+
+#: inc/taxonomies.php:87
+msgctxt "taxonomy singular name"
+msgid "Project Category"
+msgstr ""
+
+#: inc/whatsapp.php:145
+#: elementor/widgets/project-grid.php:69
+msgid "Project category"
+msgstr ""
+
+#: inc/meta-fields.php:301
+msgid "Project Details"
+msgstr ""
+
+#: inc/meta-fields.php:989
+msgid "Project gallery"
+msgstr ""
+
+#: inc/post-types.php:138
+msgid "Project Image"
+msgstr ""
+
+#: inc/admin.php:54
+msgid "Project planning support for material scheduling"
+msgstr ""
+
+#: inc/post-types.php:141
+msgid "Project references and construction visuals. Mark illustrative visuals as \"Illustrative construction reference\"."
+msgstr ""
+
+#: elementor/widgets/project-grid.php:181
+msgid "Project title"
+msgstr ""
+
+#: single-bp_project.php:100
+#: inc/meta-fields.php:999
+msgid "Project video"
+msgstr ""
+
+#: inc/admin.php:50
+msgid "Project-based quotations"
+msgstr ""
+
+#: footer.php:127
+#: front-page.php:331
+#: taxonomy-bp_project_category.php:18
+#: inc/admin.php:218
+#: inc/admin.php:246
+#: inc/admin.php:571
+msgid "Projects"
+msgstr ""
+
+#: inc/post-types.php:127
+msgctxt "post type general name"
+msgid "Projects"
+msgstr ""
+
+#: inc/post-types.php:129
+msgctxt "admin menu"
+msgid "Projects"
+msgstr ""
+
+#: archive-bp_project.php:18
+msgid "Projects & Construction References"
+msgstr ""
+
+#: elementor/widgets/project-grid.php:38
+msgid "Projects Grid"
+msgstr ""
+
+#: inc/taxonomies.php:487
+msgid "Promotional Videos"
+msgstr ""
+
+#: home.php:44
+msgid "Publish your first article from WordPress → Posts. Ideas: brick selection, cement grades, sand and crush quality, material planning."
+msgstr ""
+
+#: inc/admin.php:559
+msgid "Published products"
+msgstr ""
+
+#: inc/admin.php:565
+msgid "Published videos"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:260
+msgid "Pure CSS transforms - the brick keeps its aspect ratio and never distorts. Disabled for reduced-motion visitors."
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:218
+msgid "Quality highlights (one per line)"
+msgstr ""
+
+#: front-page.php:82
+#: inc/shortcodes.php:401
+#: elementor/widgets/stats.php:97
+#: elementor/widgets/stats.php:130
+msgid "Quality-focused supply"
+msgstr ""
+
+#: inc/contact.php:55
+#: inc/contact.php:407
+#: inc/contact.php:471
+#: inc/product-functions.php:807
+msgid "Quantity"
+msgstr ""
+
+#: inc/product-functions.php:811
+msgid "Quantity (optional)"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:66
+#: elementor/widgets/project-grid.php:61
+#: elementor/widgets/video-grid.php:62
+msgid "Query"
+msgstr ""
+
+#: inc/whatsapp.php:280
+msgid "Quick contact"
+msgstr ""
+
+#: inc/admin.php:594
+msgid "Quick links"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:150
+msgid "Quotation button label"
+msgstr ""
+
+#: elementor/widgets/product-gallery.php:101
+msgid "Radius (px)"
+msgstr ""
+
+#: inc/project-functions.php:488
+msgid "Raja Jang, Kasur District, Punjab, Pakistan"
+msgstr ""
+
+#: inc/project-functions.php:479
+msgid "Ram Thaman, Lahore District, Punjab, Pakistan"
+msgstr ""
+
+#: front-page.php:93
+msgid "Ram Thaman, Raja Jang and Sattoki production sites."
+msgstr ""
+
+#: elementor/widgets/product-grid.php:142
+#: elementor/widgets/project-grid.php:104
+#: elementor/widgets/video-grid.php:122
+msgid "Random"
+msgstr ""
+
+#: inc/admin.php:584
+msgid "Read inquiries →"
+msgstr ""
+
+#: template-parts/content-card.php:52
+#: template-parts/content.php:34
+msgid "Read more"
+msgstr ""
+
+#: footer.php:36
+msgid "Ready to order bricks and construction materials?"
+msgstr ""
+
+#: inc/product-functions.php:900
+msgid "Reference"
+msgstr ""
+
+#: single-bp_project.php:31
+#: inc/meta-fields.php:961
+#: inc/project-functions.php:109
+msgid "Reference visual"
+msgstr ""
+
+#: inc/meta-fields.php:292
+msgid "Related Content"
+msgstr ""
+
+#: inc/admin.php:900
+msgid "Related Content box links the video to products, projects or locations so it appears on those pages automatically."
+msgstr ""
+
+#: inc/meta-fields.php:927
+msgid "Related locations"
+msgstr ""
+
+#: single-bp_product.php:166
+#: inc/meta-fields.php:810
+#: inc/meta-fields.php:925
+#: inc/meta-fields.php:1017
+#: inc/product-functions.php:677
+msgid "Related products"
+msgstr ""
+
+#: inc/meta-fields.php:926
+msgid "Related projects"
+msgstr ""
+
+#: single.php:107
+msgid "Related reading"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:89
+msgid "Related to current item"
+msgstr ""
+
+#: inc/video-functions.php:639
+msgid "Related videos"
+msgstr ""
+
+#: front-page.php:87
+#: inc/shortcodes.php:406
+#: elementor/widgets/stats.php:135
+msgid "Reliable delivery"
+msgstr ""
+
+#: inc/meta-fields.php:400
+#: inc/meta-fields.php:423
+#: inc/taxonomies.php:283
+msgid "Remove"
+msgstr ""
+
+#: inc/post-types.php:52
+msgid "Remove product image"
+msgstr ""
+
+#: inc/meta-fields.php:783
+msgid "Remove row"
+msgstr ""
+
+#: inc/taxonomies.php:507
+msgid "Renovation & Extension"
+msgstr ""
+
+#: inc/admin.php:70
+msgid "Replace this placeholder text with terms reviewed for your business."
+msgstr ""
+
+#: inc/admin.php:42
+#: inc/admin.php:62
+#: elementor/widgets/contact-form.php:69
+msgid "Request a quotation"
+msgstr ""
+
+#: front-page.php:430
+#: elementor/widgets/hero.php:120
+msgid "Request a Quote"
+msgstr ""
+
+#: inc/product-functions.php:830
+#: elementor/widgets/ss7-showcase.php:152
+msgid "Request Quotation"
+msgstr ""
+
+#: single-bp_product.php:108
+msgid "Request Quote on WhatsApp"
+msgstr ""
+
+#: inc/contact.php:48
+msgid "Required material"
+msgstr ""
+
+#: inc/admin.php:633
+msgid "Required pages checked/created: %d."
+msgstr ""
+
+#: inc/taxonomies.php:501
+msgid "Residential"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:243
+#: elementor/widgets/whatsapp-button.php:196
+msgid "Right"
+msgstr ""
+
+#: elementor/widgets/product-specs.php:139
+msgid "Row divider color"
+msgstr ""
+
+#: inc/admin.php:596
+msgid "Run first-time setup (pages, categories, locations)"
+msgstr ""
+
+#: inc/admin.php:687
+msgid "Run these once after activating the theme, then manage everything from the normal WordPress screens."
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Sales manager name"
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Sales manager role label"
+msgstr ""
+
+#: inc/project-functions.php:510
+msgid "Sales office for quotations, order coordination and delivery scheduling."
+msgstr ""
+
+#: inc/admin.php:355
+#: inc/taxonomies.php:455
+#: inc/taxonomies.php:484
+msgid "Sand / Rait"
+msgstr ""
+
+#: inc/admin.php:357
+msgid "Sand for plastering, masonry and concrete mixes, available in bulk loads."
+msgstr ""
+
+#: inc/project-functions.php:497
+msgid "Sattoki, Kasur District, Punjab, Pakistan"
+msgstr ""
+
+#: inc/admin.php:857
+msgid "Save settings"
+msgstr ""
+
+#: single-bp_project.php:66
+msgid "Scope"
+msgstr ""
+
+#: inc/meta-fields.php:970
+msgid "Scope / materials supplied"
+msgstr ""
+
+#: header.php:113
+#: header.php:139
+#: searchform.php:18
+msgid "Search"
+msgstr ""
+
+#: searchform.php:15
+msgid "Search for:"
+msgstr ""
+
+#: inc/post-types.php:209
+msgid "Search Inquiries"
+msgstr ""
+
+#: inc/post-types.php:175
+msgid "Search Locations"
+msgstr ""
+
+#: inc/taxonomies.php:32
+msgid "Search Product Categories"
+msgstr ""
+
+#: inc/post-types.php:47
+msgid "Search Products"
+msgstr ""
+
+#: searchform.php:16
+msgid "Search products, materials, videos…"
+msgstr ""
+
+#: header.php:137
+msgid "Search products, videos and pages"
+msgstr ""
+
+#: header.php:138
+msgid "Search products, videos, pages…"
+msgstr ""
+
+#: inc/taxonomies.php:94
+msgid "Search Project Categories"
+msgstr ""
+
+#: inc/post-types.php:136
+msgid "Search Projects"
+msgstr ""
+
+#: search.php:18
+msgid "Search results for “%s”"
+msgstr ""
+
+#: inc/taxonomies.php:64
+msgid "Search Video Categories"
+msgstr ""
+
+#: inc/post-types.php:97
+msgid "Search Videos"
+msgstr ""
+
+#: inc/template-functions.php:265
+msgid "Search: %s"
+msgstr ""
+
+#: elementor/widgets/hero.php:118
+msgid "Secondary button"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Secondary button label"
+msgstr ""
+
+#: inc/customizer.php:178
+#: elementor/widgets/hero.php:127
+msgid "Secondary button link"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:267
+msgid "Section background"
+msgstr ""
+
+#: elementor/widgets/base.php:68
+#: elementor/widgets/location-cards.php:56
+#: elementor/widgets/product-categories.php:56
+#: elementor/widgets/product-grid.php:60
+#: elementor/widgets/project-grid.php:56
+#: elementor/widgets/section-heading.php:38
+msgid "Section Heading"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Section vertical spacing (px)"
+msgstr ""
+
+#: inc/ajax.php:25
+msgid "Security check failed. Please reload the page."
+msgstr ""
+
+#: inc/admin.php:42
+msgid "See it in action"
+msgstr ""
+
+#: archive-bp_product.php:82
+msgid "See the full construction-materials range"
+msgstr ""
+
+#: front-page.php:274
+msgid "See the Strength Behind Every Brick"
+msgstr ""
+
+#: elementor/widgets/product-gallery.php:173
+#: elementor/widgets/product-specs.php:180
+msgid "Select a product, or place this widget in a Single Product template."
+msgstr ""
+
+#: elementor/widgets/video-card.php:70
+msgid "Select a video"
+msgstr ""
+
+#: inc/taxonomies.php:223
+msgid "Select a video from the Videos post type."
+msgstr ""
+
+#: elementor/widgets/video-card.php:229
+msgid "Select a video or paste a video URL in the widget settings."
+msgstr ""
+
+#: inc/meta-fields.php:397
+msgid "Select file"
+msgstr ""
+
+#: inc/taxonomies.php:281
+msgid "Select image"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:110
+msgid "Select products"
+msgstr ""
+
+#: inc/post-types.php:358
+msgid "Self-hosted"
+msgstr ""
+
+#: inc/meta-fields.php:839
+msgid "Self-hosted files are best for short clips. Use YouTube/Vimeo for long videos to keep the site fast."
+msgstr ""
+
+#: inc/meta-fields.php:836
+msgid "Self-hosted MP4 (media library)"
+msgstr ""
+
+#: elementor/widgets/hero.php:167
+msgid "Self-hosted video (MP4)"
+msgstr ""
+
+#: inc/meta-fields.php:857
+msgid "Self-hosted video file (MP4/WebM)"
+msgstr ""
+
+#: inc/contact.php:95
+#: inc/shortcodes.php:283
+#: elementor/widgets/contact-form.php:88
+msgid "Send Inquiry"
+msgstr ""
+
+#: inc/admin.php:62
+msgid "Send us your material list, quantity and delivery location - our team will respond with availability and a quotation. For the fastest response, message us on WhatsApp."
+msgstr ""
+
+#: archive-bp_location.php:44
+msgid "Send us your requirement and we will point you to the closest production site or arrange delivery directly."
+msgstr ""
+
+#: footer.php:37
+msgid "Send your material list, quantity and delivery location - we will confirm availability and rates."
+msgstr ""
+
+#: single-bp_product.php:103
+msgid "Send your quantity and delivery location — we will confirm rate and dispatch."
+msgstr ""
+
+#: inc/enqueue.php:106
+msgid "Sending…"
+msgstr ""
+
+#: inc/post-types.php:178
+msgid "Set location image"
+msgstr ""
+
+#: inc/post-types.php:51
+msgid "Set product image"
+msgstr ""
+
+#: inc/post-types.php:139
+msgid "Set project image"
+msgstr ""
+
+#: inc/post-types.php:100
+msgid "Set video thumbnail"
+msgstr ""
+
+#: inc/admin.php:823
+msgid "Settings saved."
+msgstr ""
+
+#: inc/admin.php:882
+msgid "Settings → Permalinks: click Save once so /products/, /videos/ and /locations/ resolve."
+msgstr ""
+
+#: inc/admin.php:478
+#: inc/admin.php:479
+#: inc/admin.php:681
+msgid "Setup & Content"
+msgstr ""
+
+#: inc/whatsapp.php:349
+msgid "Share"
+msgstr ""
+
+#: inc/whatsapp.php:364
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/whatsapp.php:357
+msgid "Share on WhatsApp"
+msgstr ""
+
+#: inc/whatsapp.php:371
+msgid "Share on X"
+msgstr ""
+
+#: front-page.php:415
+msgid "Share the material list, quantity and delivery location. We will confirm availability, rate and dispatch."
+msgstr ""
+
+#: single.php:66
+msgid "Share this article"
+msgstr ""
+
+#: single-bp_product.php:83
+msgid "Share this product"
+msgstr ""
+
+#: single-bp_video.php:70
+msgid "Share this video"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:79
+msgid "Share your material list, quantity and delivery location - our team will confirm availability and rates."
+msgstr ""
+
+#: elementor/widgets/stats.php:83
+msgid "Shield / quality"
+msgstr ""
+
+#: inc/taxonomies.php:205
+#: elementor/widgets/product-grid.php:252
+#: elementor/widgets/video-grid.php:267
+msgid "Short description"
+msgstr ""
+
+#: elementor/widgets/hero.php:170
+msgid "Short, compressed clips work best (10–20s, under ~4 MB)."
+msgstr ""
+
+#: elementor/widgets/section-heading.php:73
+msgid "Show accent divider"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:144
+msgid "Show category filter buttons"
+msgstr ""
+
+#: elementor/widgets/product-specs.php:105
+msgid "Show features list"
+msgstr ""
+
+#: elementor/widgets/product-specs.php:115
+msgid "Show full description"
+msgstr ""
+
+#: inc/product-functions.php:563
+msgid "Show image %d"
+msgstr ""
+
+#: elementor/widgets/project-grid.php:112
+msgid "Show location / status / disclaimer"
+msgstr ""
+
+#: inc/taxonomies.php:241
+msgid "Show on homepage category section"
+msgstr ""
+
+#: elementor/widgets/hero.php:319
+msgid "Show play/pause control"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:95
+msgid "Show products related to current item"
+msgstr ""
+
+#: elementor/widgets/product-specs.php:95
+msgid "Show specifications table"
+msgstr ""
+
+#: elementor/widgets/hero.php:136
+msgid "Show WhatsApp button"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:149
+msgid "Show WhatsApp icon"
+msgstr ""
+
+#: elementor/widgets/location-cards.php:90
+msgid "Show “Available here” product list"
+msgstr ""
+
+#: inc/meta-fields.php:607
+msgid "Shown as a badge on cards and on the product page."
+msgstr ""
+
+#: inc/customizer.php:203
+msgid "Shown before the video loads and on slow connections. Recommended."
+msgstr ""
+
+#: elementor/widgets/hero.php:188
+msgid "Shown before the video loads. Always set one for performance."
+msgstr ""
+
+#: inc/admin.php:976
+msgid "Single product"
+msgstr ""
+
+#: inc/elementor.php:173
+msgid "Single Product (BrickPoint)"
+msgstr ""
+
+#: inc/elementor.php:189
+msgid "Single Project (BrickPoint)"
+msgstr ""
+
+#: inc/admin.php:979
+msgid "Single video"
+msgstr ""
+
+#: inc/elementor.php:181
+msgid "Single Video (BrickPoint)"
+msgstr ""
+
+#: inc/admin.php:984
+msgid "Single → 404 Page"
+msgstr ""
+
+#: inc/admin.php:976
+msgid "Single → Products"
+msgstr ""
+
+#: inc/admin.php:979
+msgid "Single → Videos"
+msgstr ""
+
+#: inc/meta-fields.php:781
+#: elementor/widgets/whatsapp-button.php:135
+msgid "Size"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:201
+msgid "Size, Colour, Type, Strength, Usage, Availability, Delivery area. Only enter what you can confirm - empty rows are ignored."
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: inc/meta-fields.php:625
+msgid "SKU / internal reference"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:139
+msgid "Small"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:108
+msgid "Small gallery"
+msgstr ""
+
+#: inc/admin.php:776
+msgid "Social links"
+msgstr ""
+
+#: inc/customizer.php:138
+#: elementor/widgets/social-links.php:41
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer.php:255
+msgid "Soft charcoal (cards on dark)"
+msgstr ""
+
+#: elementor/widgets/social-links.php:100
+msgid "Solid circles"
+msgstr ""
+
+#: inc/contact.php:194
+msgid "Something went wrong. Please try again or message us on WhatsApp."
+msgstr ""
+
+#: inc/enqueue.php:105
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: inc/post-types.php:264
+msgid "Source"
+msgstr ""
+
+#: inc/contact.php:473
+msgid "Source page"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:81
+msgid "Specific product"
+msgstr ""
+
+#: elementor/widgets/product-specs.php:132
+msgid "Specification labels"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:197
+msgid "Specification rows"
+msgstr ""
+
+#: elementor/widgets/product-specs.php:133
+msgid "Specification values"
+msgstr ""
+
+#: inc/product-functions.php:586
+#: elementor/widgets/product-specs.php:79
+#: elementor/widgets/ss7-showcase.php:171
+msgid "Specifications"
+msgstr ""
+
+#: inc/meta-fields.php:265
+msgid "Specifications & Features"
+msgstr ""
+
+#: inc/admin.php:891
+msgid "Specifications & Features box = size, colour, type, strength, usage, delivery area. Only add what you can confirm."
+msgstr ""
+
+#: elementor/widgets/product-specs.php:77
+msgid "Specifications heading"
+msgstr ""
+
+#: inc/taxonomies.php:212
+msgid "Square or 4:3 image used on category cards."
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:398
+msgid "SS7 brick"
+msgstr ""
+
+#: elementor/widgets/hero.php:332
+msgid "SS7 Brick Animation"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:100
+msgid "SS7 brick image (cutout)"
+msgstr ""
+
+#: elementor/widgets/hero.php:351
+msgid "SS7 brick image (cutout, transparent PNG works best)"
+msgstr ""
+
+#: front-page.php:187
+msgid "SS7 bricks"
+msgstr ""
+
+#: front-page.php:196
+#: front-page.php:236
+#: inc/admin.php:41
+#: inc/admin.php:215
+#: inc/admin.php:237
+#: inc/admin.php:324
+msgid "SS7 Bricks"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:93
+msgid "SS7 Bricks are produced, stacked and loaded with a focus on uniform size, clean edges and consistent strength for walls, grey structure and boundary work."
+msgstr ""
+
+#: inc/admin.php:42
+msgid "SS7 Bricks are produced, stacked and loaded with a focus on uniform size, clean edges and consistent strength. Ask us for current sizes, rates and availability for your project."
+msgstr ""
+
+#: front-page.php:199
+msgid "SS7 Bricks are produced, stacked and loaded with a focus on uniform size, clean edges and consistent strength. Share your project requirement and we will confirm sizes, rate and availability."
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:42
+msgid "SS7 Bricks Showcase"
+msgstr ""
+
+#: inc/admin.php:412
+msgid "SS7 Bricks – product overview (add your video)"
+msgstr ""
+
+#: inc/admin.php:336
+msgid "Standard clay bricks for general construction work, supplied in bulk with loading support."
+msgstr ""
+
+#: elementor/widgets/stats.php:84
+msgid "Star"
+msgstr ""
+
+#: elementor/widgets/video-card.php:119
+msgid "Start unmuted on click only (always true)"
+msgstr ""
+
+#: inc/admin.php:666
+msgid "Starter drafts created: %1$d products, %2$d videos. They are saved as drafts - edit and publish what you want."
+msgstr ""
+
+#: elementor/widgets/stats.php:41
+msgid "Stats / Trust Strip"
+msgstr ""
+
+#: single-bp_project.php:62
+#: inc/post-types.php:282
+msgid "Status"
+msgstr ""
+
+#: inc/taxonomies.php:456
+#: inc/taxonomies.php:485
+msgid "Steel"
+msgstr ""
+
+#: inc/admin.php:362
+msgid "Steel (Rebar)"
+msgstr ""
+
+#: elementor/widgets/hero.php:366
+msgid "Strong (more movement)"
+msgstr ""
+
+#: elementor/widgets/breadcrumbs.php:101
+#: elementor/widgets/contact-form.php:117
+#: elementor/widgets/hero.php:378
+#: elementor/widgets/location-cards.php:171
+#: elementor/widgets/product-categories.php:156
+#: elementor/widgets/product-gallery.php:93
+msgid "Style"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:158
+msgid "Submit button background"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:170
+msgid "Submit button text color"
+msgstr ""
+
+#: elementor/widgets/hero.php:364
+msgid "Subtle"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:257
+msgid "Subtle float"
+msgstr ""
+
+#: inc/customizer.php:174
+msgid "Supporting paragraph"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:76
+#: elementor/widgets/hero.php:90
+#: elementor/widgets/hero.php:419
+msgid "Supporting text"
+msgstr ""
+
+#: inc/taxonomies.php:464
+msgid "Switches and Sockets"
+msgstr ""
+
+#: inc/admin.php:30
+msgid "Talk to our team"
+msgstr ""
+
+#: single-bp_video.php:76
+msgid "Tell us what your project needs and we will confirm availability and rates."
+msgstr ""
+
+#: front-page.php:414
+msgid "Tell us what your site needs"
+msgstr ""
+
+#: inc/admin.php:990
+msgid "Templates → Theme Builder → Add New → choose the part type (Header, Footer, Single, Archive, 404)."
+msgstr ""
+
+#: footer.php:250
+#: inc/admin.php:69
+#: inc/admin.php:259
+msgid "Terms and Conditions"
+msgstr ""
+
+#: elementor/widgets/stats.php:105
+#: elementor/widgets/stats.php:195
+msgid "Text"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:279
+#: elementor/widgets/whatsapp-button.php:231
+msgid "Text color"
+msgstr ""
+
+#: inc/contact.php:386
+msgid "Thank you - your inquiry has been received."
+msgstr ""
+
+#: inc/contact.php:340
+msgid "Thank you - your inquiry has been received. Our team will contact you shortly. For an immediate response, message us on WhatsApp."
+msgstr ""
+
+#: inc/contact.php:209
+#: inc/enqueue.php:107
+msgid "Thank you - your inquiry has been sent."
+msgstr ""
+
+#: inc/meta-fields.php:816
+msgid "The button always uses your WhatsApp number from Appearance → Customize → BrickPoint → Contact."
+msgstr ""
+
+#: 404.php:19
+msgid "The link may be outdated. Search for a product, or start from one of the sections below."
+msgstr ""
+
+#: front-page.php:197
+#: inc/admin.php:42
+#: elementor/widgets/ss7-showcase.php:83
+msgid "The Strength Behind Every Structure"
+msgstr ""
+
+#: inc/admin.php:919
+msgid "The theme adds a “BrickPoint” widget category with: Hero, Product Grid, Product Categories, Product Price, Product Gallery, Product Specs, WhatsApp Button, Video Grid, Video Card, Projects Grid, Location Cards, Social Links, Stats and Contact Form."
+msgstr ""
+
+#: inc/admin.php:992
+msgid "The theme automatically steps aside: when an Elementor template matches, its output is used instead of the theme file."
+msgstr ""
+
+#: elementor/widgets/video-card.php:132
+msgid "The visitor clicks the poster; the player then loads (no render-blocking embeds)."
+msgstr ""
+
+#: inc/admin.php:968
+msgid "Theme file"
+msgstr ""
+
+#: inc/admin.php:487
+#: inc/admin.php:488
+#: inc/admin.php:828
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/admin.php:597
+msgid "Theme settings (phone, WhatsApp, social links, colors)"
+msgstr ""
+
+#: inc/admin.php:1061
+msgid "Theme setup"
+msgstr ""
+
+#: archive.php:37
+msgid "There is no content in this archive yet."
+msgstr ""
+
+#: inc/admin.php:830
+msgid "These settings power every WhatsApp link, phone button and footer block across the site. Logo and favicon live in Appearance → Customize → Site Identity."
+msgstr ""
+
+#: inc/meta-fields.php:1026
+msgid "This is an illustrative / inspiration visual"
+msgstr ""
+
+#: 404.php:18
+msgid "This page has moved or no longer exists"
+msgstr ""
+
+#: inc/admin.php:66
+msgid "This website collects the information you voluntarily submit through the contact and quotation form (name, phone, email, company, required material, quantity, delivery location and message). That information is used only to respond to your inquiry and to coordinate supply."
+msgstr ""
+
+#: inc/post-types.php:263
+#: elementor/widgets/video-grid.php:264
+msgid "Thumbnail"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:188
+msgid "Thumbnail aspect ratio"
+msgstr ""
+
+#: elementor/widgets/product-gallery.php:122
+msgid "Thumbnail size (px)"
+msgstr ""
+
+#: elementor/widgets/product-gallery.php:77
+msgid "Thumbnails position"
+msgstr ""
+
+#: inc/helpers.php:349
+#: elementor/widgets/social-links.php:87
+msgid "TikTok"
+msgstr ""
+
+#: elementor/widgets/base.php:91
+#: elementor/widgets/product-grid.php:138
+#: elementor/widgets/product-grid.php:327
+#: elementor/widgets/section-heading.php:67
+#: elementor/widgets/stats.php:95
+#: elementor/widgets/stats.php:194
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/base.php:129
+msgid "Title HTML tag"
+msgstr ""
+
+#: inc/admin.php:66
+msgid "To request correction or deletion of your inquiry data, contact us using the details on the Contact page. Replace this text with guidance reviewed for your business."
+msgstr ""
+
+#: inc/setup.php:53
+msgid "Top Bar Links"
+msgstr ""
+
+#: elementor/widgets/hero.php:208
+msgid "Top right corner card"
+msgstr ""
+
+#: elementor/widgets/stats.php:123
+msgid "Trust items"
+msgstr ""
+
+#: index.php:40
+msgid "Try a different search, or browse our products instead."
+msgstr ""
+
+#: search.php:59
+msgid "Try another term, or browse our product categories."
+msgstr ""
+
+#: inc/admin.php:328
+#: elementor/widgets/ss7-showcase.php:204
+msgid "Type"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:322
+msgid "Typography & Colors"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Uncheck if your fonts are loaded elsewhere (e.g. a performance plugin or local hosting)."
+msgstr ""
+
+#: front-page.php:207
+msgid "Uniform size"
+msgstr ""
+
+#: elementor/widgets/ss7-showcase.php:221
+msgid "Uniform size and clean edges\nConsistent strength across consignments\nLoading support at the bhatta"
+msgstr ""
+
+#: inc/meta-fields.php:586
+#: inc/product-functions.php:888
+#: elementor/widgets/product-grid.php:255
+#: elementor/widgets/product-price.php:80
+#: elementor/widgets/product-price.php:109
+msgid "Unit"
+msgstr ""
+
+#: inc/taxonomies.php:29
+msgid "Update Product Category"
+msgstr ""
+
+#: inc/taxonomies.php:91
+msgid "Update Project Category"
+msgstr ""
+
+#: inc/taxonomies.php:61
+msgid "Update Video Category"
+msgstr ""
+
+#: inc/meta-fields.php:858
+msgid "Upload or select the file from the media library."
+msgstr ""
+
+#: elementor/widgets/social-links.php:112
+msgid "URLs are managed in BrickPoint → Theme Settings → Social links (or in the Customizer). Empty entries are hidden automatically."
+msgstr ""
+
+#: inc/admin.php:329
+#: elementor/widgets/ss7-showcase.php:208
+msgid "Usage"
+msgstr ""
+
+#: inc/post-types.php:53
+msgid "Use as product image"
+msgstr ""
+
+#: inc/meta-fields.php:761
+msgid "Use the main editor above for the full product description and the Excerpt field for the short description."
+msgstr ""
+
+#: inc/meta-fields.php:1314
+msgid "Use the main editor for the <strong>full description</strong>, the Excerpt box for the <strong>short description</strong>, and the Featured Image box for the <strong>main product image</strong>. Settings for specifications, video and WhatsApp are below. Need a bulk starting point? Open <a href=\"%s\">BrickPoint → Setup</a>."
+msgstr ""
+
+#: inc/admin.php:980
+msgid "Use the page template if you prefer a page over the archive"
+msgstr ""
+
+#: inc/customizer.php:353
+msgid "Use {year} for the current year."
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Used by the default homepage. If you build the homepage in Elementor, use the \"BP Hero\" widget instead."
+msgstr ""
+
+#: elementor/widgets/product-grid.php:103
+msgid "Used inside a product template to show related products automatically."
+msgstr ""
+
+#: inc/meta-fields.php:733
+msgid "Useful for SS7 Bricks: Size, Color, Type, Strength, Usage, Availability, Delivery area. Only add specifications you can confirm."
+msgstr ""
+
+#: inc/meta-fields.php:736
+#: elementor/widgets/ss7-showcase.php:189
+msgid "Value"
+msgstr ""
+
+#: inc/post-types.php:89
+msgctxt "post type singular name"
+msgid "Video"
+msgstr ""
+
+#: elementor/widgets/video-card.php:62
+msgid "Video"
+msgstr ""
+
+#: elementor/widgets/video-card.php:41
+msgid "Video (single)"
+msgstr ""
+
+#: inc/admin.php:978
+msgid "Video archive"
+msgstr ""
+
+#: inc/elementor.php:185
+msgid "Video Archive (BrickPoint)"
+msgstr ""
+
+#: elementor/widgets/hero.php:195
+msgid "Video badge label"
+msgstr ""
+
+#: inc/customizer.php:230
+#: elementor/widgets/hero.php:266
+msgid "Video border radius (px)"
+msgstr ""
+
+#: inc/admin.php:600
+msgid "Video categories"
+msgstr ""
+
+#: inc/taxonomies.php:56
+msgctxt "taxonomy general name"
+msgid "Video Categories"
+msgstr ""
+
+#: inc/taxonomies.php:58
+msgid "Video Categories"
+msgstr ""
+
+#: inc/taxonomies.php:57
+msgctxt "taxonomy singular name"
+msgid "Video Category"
+msgstr ""
+
+#: inc/whatsapp.php:144
+#: elementor/widgets/video-grid.php:70
+msgid "Video category"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:38
+msgid "Video Grid"
+msgstr ""
+
+#: inc/post-types.php:102
+msgid "Video library: SS7 bricks, brick manufacturing, bhatta locations, projects, products and company videos."
+msgstr ""
+
+#: elementor/widgets/hero.php:244
+msgid "Video min height"
+msgstr ""
+
+#: inc/customizer.php:214
+#: elementor/widgets/hero.php:287
+msgid "Video overlay opacity (%)"
+msgstr ""
+
+#: inc/video-functions.php:943
+msgid "Video player"
+msgstr ""
+
+#: elementor/widgets/hero.php:204
+msgid "Video position"
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Video poster image"
+msgstr ""
+
+#: inc/meta-fields.php:283
+msgid "Video Source"
+msgstr ""
+
+#: inc/admin.php:898
+msgid "Video Source box: choose YouTube, Vimeo, self-hosted MP4 or external URL, then paste/upload."
+msgstr ""
+
+#: inc/meta-fields.php:831
+msgid "Video source type"
+msgstr ""
+
+#: inc/post-types.php:99
+msgid "Video Thumbnail"
+msgstr ""
+
+#: inc/meta-fields.php:847
+msgid "Video URL"
+msgstr ""
+
+#: elementor/widgets/hero.php:218
+msgid "Video width"
+msgstr ""
+
+#: 404.php:32
+#: footer.php:128
+#: single-bp_product.php:152
+#: taxonomy-bp_video_category.php:18
+#: inc/admin.php:217
+#: inc/admin.php:239
+msgid "Videos"
+msgstr ""
+
+#: inc/post-types.php:88
+msgctxt "post type general name"
+msgid "Videos"
+msgstr ""
+
+#: inc/post-types.php:90
+msgctxt "admin menu"
+msgid "Videos"
+msgstr ""
+
+#: front-page.php:343
+msgid "Videos assigned to “Construction Projects” or “Construction Materials” show up here."
+msgstr ""
+
+#: elementor/widgets/video-grid.php:96
+msgid "Videos linked to this location"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:94
+msgid "Videos linked to this product"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:95
+msgid "Videos linked to this project"
+msgstr ""
+
+#: inc/admin.php:980
+msgid "Videos page (/videos/)"
+msgstr ""
+
+#: inc/admin.php:897
+msgid "Videos → Add Video. Set the thumbnail (featured image) - it is the poster used in grids."
+msgstr ""
+
+#: front-page.php:289
+msgid "View all videos"
+msgstr ""
+
+#: inc/post-types.php:207
+msgid "View Inquiry"
+msgstr ""
+
+#: inc/post-types.php:173
+msgid "View Location"
+msgstr ""
+
+#: single-bp_location.php:111
+#: inc/project-functions.php:312
+msgid "View on Google Maps"
+msgstr ""
+
+#: inc/post-types.php:45
+#: inc/product-functions.php:240
+msgid "View Product"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:258
+msgid "View product button"
+msgstr ""
+
+#: inc/taxonomies.php:28
+msgid "View Product Category"
+msgstr ""
+
+#: inc/post-types.php:134
+msgid "View Project"
+msgstr ""
+
+#: inc/project-functions.php:177
+msgid "View project"
+msgstr ""
+
+#: front-page.php:353
+msgid "View projects"
+msgstr ""
+
+#: front-page.php:227
+#: elementor/widgets/ss7-showcase.php:135
+msgid "View SS7 Bricks"
+msgstr ""
+
+#: inc/post-types.php:95
+msgid "View Video"
+msgstr ""
+
+#: inc/meta-fields.php:1079
+msgid "Village / area, tehsil, district"
+msgstr ""
+
+#: inc/post-types.php:360
+msgid "Vimeo"
+msgstr ""
+
+#: inc/meta-fields.php:835
+msgid "Vimeo URL"
+msgstr ""
+
+#: front-page.php:394
+msgid "Visit us at any BrickPoint location, or call ahead so loading and paperwork are ready when you arrive."
+msgstr ""
+
+#: inc/admin.php:329
+#: elementor/widgets/ss7-showcase.php:209
+msgid "Walls, grey structure, boundary walls"
+msgstr ""
+
+#: front-page.php:273
+#: taxonomy-bp_product_category.php:82
+#: inc/video-functions.php:428
+msgid "Watch"
+msgstr ""
+
+#: elementor/widgets/video-grid.php:272
+msgid "Watch button"
+msgstr ""
+
+#: taxonomy-bp_product_category.php:113
+msgid "We can still supply this material — send us your requirement and we will confirm availability."
+msgstr ""
+
+#: inc/contact.php:387
+msgid "We could not send that. Please check the required fields and try again."
+msgstr ""
+
+#: inc/admin.php:30
+msgid "We focus on consistent quality, reliable availability and clear communication from inquiry to delivery. Add your own verified details, certifications or milestones in WordPress - never publish claims you cannot confirm."
+msgstr ""
+
+#: inc/contact.php:118
+msgid "Website"
+msgstr ""
+
+#: inc/contact.php:305
+msgid "Website form"
+msgstr ""
+
+#: inc/shortcodes.php:296
+#: elementor/widgets/contact-form.php:97
+msgid "Website inquiry form"
+msgstr ""
+
+#: front-page.php:121
+msgid "What we supply"
+msgstr ""
+
+#: inc/contact.php:445
+#: inc/project-functions.php:335
+#: inc/whatsapp.php:292
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/admin.php:892
+msgid "WhatsApp box = optional custom message + related products."
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:38
+msgid "WhatsApp Button"
+msgstr ""
+
+#: elementor/widgets/product-grid.php:377
+msgid "WhatsApp button background"
+msgstr ""
+
+#: elementor/widgets/hero.php:146
+#: elementor/widgets/ss7-showcase.php:159
+msgid "WhatsApp button label"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:125
+msgid "WhatsApp green"
+msgstr ""
+
+#: inc/customizer.php:152
+msgid "WhatsApp Inquiry"
+msgstr ""
+
+#: inc/meta-fields.php:274
+msgid "WhatsApp Inquiry & Related Products"
+msgstr ""
+
+#: elementor/widgets/product-categories.php:90
+msgid "WhatsApp inquiry button"
+msgstr ""
+
+#: inc/taxonomies.php:231
+msgid "WhatsApp inquiry message"
+msgstr ""
+
+#: inc/admin.php:756
+msgid "WhatsApp number (digits only, e.g. 923152850818)"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "WhatsApp number (international, digits only)"
+msgstr ""
+
+#: elementor/widgets/whatsapp-button.php:111
+msgid "WhatsApp number override"
+msgstr ""
+
+#: single-bp_location.php:133
+msgid "WhatsApp this location"
+msgstr ""
+
+#: header.php:120
+#: inc/admin.php:30
+#: inc/shortcodes.php:313
+#: template-parts/hero.php:85
+#: elementor/widgets/hero.php:148
+#: elementor/widgets/hero.php:563
+msgid "WhatsApp Us"
+msgstr ""
+
+#: inc/meta-fields.php:1027
+msgid "When enabled the card and page show the label “Illustrative construction reference”."
+msgstr ""
+
+#: inc/admin.php:963
+msgid "Where each template lives"
+msgstr ""
+
+#: elementor/widgets/social-links.php:110
+msgid "Where links come from"
+msgstr ""
+
+#: front-page.php:392
+msgid "Where we are"
+msgstr ""
+
+#: front-page.php:70
+msgid "Who we are"
+msgstr ""
+
+#: inc/taxonomies.php:217
+msgid "Wide banner used at the top of the category archive."
+msgstr ""
+
+#: elementor/widgets/product-categories.php:128
+msgid "Wide rows"
+msgstr ""
+
+#: inc/admin.php:1042
+msgid "WooCommerce is active on this site. BrickPoint does not use WooCommerce - products, prices and inquiries are handled by the theme’s own Products system and WhatsApp/contact form. You can deactivate WooCommerce unless another part of the site needs it."
+msgstr ""
+
+#: inc/helpers.php:345
+#: elementor/widgets/social-links.php:86
+msgid "X (Twitter)"
+msgstr ""
+
+#: single-bp_project.php:70
+msgid "Year"
+msgstr ""
+
+#: inc/meta-fields.php:979
+msgid "Year (optional)"
+msgstr ""
+
+#: inc/admin.php:538
+#: inc/admin.php:619
+#: inc/admin.php:740
+msgid "You do not have permission to view this page."
+msgstr ""
+
+#: inc/contact.php:217
+msgid "You just sent a message. Please wait a moment before sending another."
+msgstr ""
+
+#: inc/contact.php:178
+msgid "Your details are only used to respond to this inquiry."
+msgstr ""
+
+#: template-parts/comments.php:64
+msgid "Your email address will not be published."
+msgstr ""
+
+#: inc/contact.php:24
+msgid "Your name"
+msgstr ""
+
+#: inc/contact.php:200
+msgid "Your session expired. Please reload the page and try again."
+msgstr ""
+
+#: inc/helpers.php:353
+#: inc/post-types.php:359
+#: elementor/widgets/social-links.php:88
+msgid "YouTube"
+msgstr ""
+
+#: inc/meta-fields.php:687
+msgid "YouTube / Vimeo / .mp4 URL"
+msgstr ""
+
+#: inc/taxonomies.php:228
+msgid "YouTube / Vimeo / MP4 URL used when no video is selected above."
+msgstr ""
+
+#: inc/meta-fields.php:834
+msgid "YouTube URL"
+msgstr ""
+
+#: elementor/widgets/video-card.php:82
+msgid "YouTube, Vimeo or a direct .mp4 link. Used when no video is selected above."
+msgstr ""
+
+#: inc/meta-fields.php:451
+#: inc/taxonomies.php:299
+msgid "— None —"
+msgstr ""
+
+#: inc/meta-fields.php:957
+#: inc/meta-fields.php:1189
+msgid "— Not set —"
+msgstr ""
+
+#: inc/elementor.php:317
+msgid "— Select —"
+msgstr ""

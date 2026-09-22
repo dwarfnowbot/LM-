@@ -1,0 +1,106 @@
+/* ==========================================================================
+   BrickPoint — Elementor frontend compatibility
+   Keeps theme components looking native inside Elementor sections/widgets.
+   ========================================================================== */
+
+/* Widget wrapper spacing inside Elementor columns. */
+.elementor-widget-brickpoint_product_grid,
+.elementor-widget-brickpoint_product_categories,
+.elementor-widget-brickpoint_product_price,
+.elementor-widget-brickpoint_product_gallery,
+.elementor-widget-brickpoint_product_specs,
+.elementor-widget-brickpoint_whatsapp_button,
+.elementor-widget-brickpoint_video_grid,
+.elementor-widget-brickpoint_video_card,
+.elementor-widget-brickpoint_project_grid,
+.elementor-widget-brickpoint_location_cards,
+.elementor-widget-brickpoint_social_links,
+.elementor-widget-brickpoint_stats,
+.elementor-widget-brickpoint_contact_form,
+.elementor-widget-brickpoint_hero,
+.elementor-widget-brickpoint_ss7_showcase,
+.elementor-widget-brickpoint_section_heading,
+.elementor-widget-brickpoint_breadcrumbs { --bp-widget-gap: 0px; }
+
+.elementor-widget-brickpoint_hero .bp-hero { margin: 0; }
+.elementor-widget-brickpoint_contact_form form { margin: 0; }
+
+/* Elementor resets that would otherwise flatten our cards. */
+.elementor-widget-container .bp-product-card__title,
+.elementor-widget-container .bp-video-card__title,
+.elementor-widget-container .bp-project-card__title,
+.elementor-widget-container .bp-category-card__title { margin: 0; }
+
+.elementor-widget-container .bp-product-card p,
+.elementor-widget-container .bp-video-card p { margin: 0; }
+
+/* Headings inside widgets should follow the theme scale, not the kit only. */
+.elementor-widget-brickpoint_section_heading .bp-section__title { margin-bottom: .4em; }
+
+/* Grids inside columns: let the theme grid handle columns, but allow the
+   Elementor "columns" control to override via inline CSS vars. */
+.elementor-widget-brickpoint_product_grid .bp-product-grid,
+.elementor-widget-brickpoint_video_grid .bp-video-grid,
+.elementor-widget-brickpoint_project_grid .bp-project-grid,
+.elementor-widget-brickpoint_location_cards .bp-location-grid,
+.elementor-widget-brickpoint_product_categories .bp-category-grid { gap: var(--bp-gap, 28px); }
+
+/* Inline video blocks inside text widgets / columns. */
+.elementor-widget-container .bp-video { margin-bottom: 0; }
+.elementor-widget-container .bp-video--inline .bp-video__frame { border-radius: var(--bp-radius); }
+
+/* SS7 showcase inside Elementor: keep the dark canvas full width. */
+.elementor-widget-brickpoint_ss7_showcase .bp-ss7 { border-radius: 0; }
+.elementor-section.elementor-section-full_width .bp-ss7 { padding-left: 0; padding-right: 0; }
+
+/* Theme Builder "canvas" templates still need sane page padding. */
+.elementor-template-canvas .bp-archive,
+.elementor-template-canvas .bp-single-product { padding-top: 34px; }
+
+/* Editor side: show placeholder text areas instead of collapsing them. */
+.elementor-editor-active .bp-empty-state { min-height: 120px; }
+
+/* Elementor's own lightbox/toast styles must not fight ours. */
+.elementor-widget-brickpoint_video_card .bp-lightbox { z-index: 999999; }
+
+/* -------------------------------------------------------------------------
+   Empty section / gap fix.
+   A section that has padding but no visible content collapses to that padding,
+   leaving a large white area and pushing the next section's text far down the
+   page. Only sections with no rendered content are removed, so pages that use
+   background/parallax sections keep working exactly as before. */
+.elementor-top-section:empty { display: none; }
+
+.elementor-section .elementor-container:empty,
+.elementor-section .elementor-column:empty,
+.elementor-section .elementor-widget-wrap:empty { min-height: 0; padding-top: 0; padding-bottom: 0; }
+
+/* A section whose container holds only columns with no content at all. */
+.elementor-top-section:has(> .elementor-container > .elementor-column:empty):not(:has(> .elementor-container .elementor-widget-wrap > *)) { display: none; }
+
+
+/* Buttons: inherit Elementor typography only when it is explicitly set. */
+.elementor-widget-brickpoint_whatsapp_button .bp-btn { text-decoration: none; }
+
+/* Elementor container/column gap helper for our grids. */
+.e-con-full > .elementor-widget-brickpoint_product_grid,
+.e-con-full > .elementor-widget-brickpoint_video_grid,
+.e-con-full > .elementor-widget-brickpoint_project_grid { width: 100%; }
+
+/* Sticky/fixed headers inside Elementor preview should not overlap panels. */
+.elementor-editor-active .bp-header.is-sticky,
+.elementor-editor-preview .bp-header.is-sticky { position: sticky; top: 0; }
+
+/* Make sure our sticky single-post sidebar still works in Elementor pages. */
+.elementor-editor-preview .bp-single__aside { position: static; }
+
+/* Widget-specific responsive guard: never let a grid overflow a column. */
+.elementor-widget-brickpoint_product_grid .bp-product-grid,
+.elementor-widget-brickpoint_video_grid .bp-video-grid,
+.elementor-widget-brickpoint_project_grid .bp-project-grid,
+.elementor-widget-brickpoint_location_cards .bp-location-grid,
+.elementor-widget-brickpoint_product_categories .bp-category-grid { min-width: 0; }
+
+.elementor-widget-brickpoint_product_grid .bp-product-grid > *,
+.elementor-widget-brickpoint_video_grid .bp-video-grid > *,
+.elementor-widget-brickpoint_project_grid .bp-project-grid > * { min-width: 0; }

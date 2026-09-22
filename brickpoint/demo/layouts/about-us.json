@@ -1,0 +1,348 @@
+[
+ {
+  "id": "8d9e80e",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "31c9ebf",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "cc7f19c",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "About us",
+       "head_title": "A construction-materials supplier built around reliable supply",
+       "head_text": "BrickPoint delivers premium bricks and building materials for projects of every size — from a single house to multi-site supply.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "f4529b9",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "settings": {
+       "editor": "<p>BrickPoint is a construction-materials supplier based in Punjab, Pakistan. We supply bricks and the materials a project needs: cement, crush, sand, steel, pipes, construction chemicals and finishing items.</p><p>Our production companies are <strong>Masha Allah Bricks Company</strong>, <strong>Fine Bricks Company</strong> and <strong>SS7 Bricks</strong>. Materials come from our own production and from trusted suppliers in the same supply chain.</p><p><em>Edit this text with your own verified company story, milestones and team details. BrickPoint never publishes claims that cannot be confirmed.</em></p>",
+       "align": "left"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "c9c0ef4",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#f6f1ea"
+  },
+  "elements": [
+   {
+    "id": "af94e8a",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "3e1ab64",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "How we work",
+       "head_title": "Straightforward material supply",
+       "head_text": "Clear communication from inquiry to delivery.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "6f310f2",
+      "elType": "widget",
+      "widgetType": "bp_stats",
+      "settings": {
+       "head_eyebrow": "",
+       "head_title": "",
+       "head_text": "",
+       "head_align": "left",
+       "head_tag": "h2",
+       "items": [
+        {
+         "_id": "841eefe",
+         "icon": "check",
+         "title": "Share your list",
+         "text": "Send material, quantity and delivery location on WhatsApp or through the form.",
+         "value": ""
+        },
+        {
+         "_id": "a60c4d8",
+         "icon": "clock",
+         "title": "Confirm rate & availability",
+         "text": "Our sales team confirms current rates, sizes and loading time.",
+         "value": ""
+        },
+        {
+         "_id": "2a3391b",
+         "icon": "truck",
+         "title": "Loading & dispatch",
+         "text": "Bricks and materials are loaded at the production site for your schedule.",
+         "value": ""
+        },
+        {
+         "_id": "72f803d",
+         "icon": "shield",
+         "title": "Consistent quality",
+         "text": "Materials are checked and stacked with care on every consignment.",
+         "value": ""
+        }
+       ]
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "9351d16",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "782256b",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "913b4ec",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Management",
+       "head_title": "Meet our team",
+       "head_text": "The people behind BrickPoint - your points of contact for quotations, supply and delivery.",
+       "head_align": "center",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "b103626",
+      "elType": "widget",
+      "widgetType": "bp_team",
+      "settings": {
+       "head_eyebrow": "",
+       "head_title": "",
+       "head_text": "",
+       "head_align": "left",
+       "head_tag": "h2",
+       "columns": 2,
+       "columns_tablet": 2,
+       "columns_mobile": 1,
+       "gap": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "photo_ratio": "1-1",
+       "members": [
+        {
+         "_id": "tm1",
+         "photo": {
+          "url": "{{IMG_URL:office}}",
+          "id": ""
+         },
+         "name": "Syed Iftikhar Haider",
+         "role": "Chief Executive Officer",
+         "bio": "Leads supply planning and the production companies behind BrickPoint."
+        },
+        {
+         "_id": "tm2",
+         "photo": {
+          "url": "{{IMG_URL:office}}",
+          "id": ""
+         },
+         "name": "Qasim Iqbal",
+         "role": "Sales Manager",
+         "bio": "Your first point of contact for quotations, availability and delivery coordination."
+        }
+       ]
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "14a85da",
+      "elType": "widget",
+      "widgetType": "bp_whatsapp_button",
+      "settings": {
+       "label": "WhatsApp the sales team",
+       "context": "general",
+       "message": "Assalam-o-Alaikum BrickPoint, I would like to discuss a material requirement.",
+       "style": "whatsapp",
+       "size": "lg",
+       "show_icon": "yes",
+       "show_phone": "yes",
+       "full_width": "",
+       "align": "center"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "4dcd11a",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#f6f1ea"
+  },
+  "elements": [
+   {
+    "id": "70325a5",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "c2032bd",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Our locations",
+       "head_title": "Production sites and office",
+       "head_text": "Call or WhatsApp before visiting to confirm loading times.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "5e45e7d",
+      "elType": "widget",
+      "widgetType": "bp_location_cards",
+      "settings": {
+       "limit": 4,
+       "show_address": "yes",
+       "show_hours": "yes",
+       "show_buttons": "yes",
+       "show_video": "yes",
+       "show_products": "yes",
+       "head_eyebrow": "",
+       "head_title": "",
+       "head_text": "",
+       "head_align": "left",
+       "head_tag": "h2",
+       "columns": 2,
+       "columns_tablet": 2,
+       "columns_mobile": 1,
+       "gap": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ }
+]

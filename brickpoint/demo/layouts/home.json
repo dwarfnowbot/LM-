@@ -1,0 +1,704 @@
+[
+ {
+  "id": "84cbb71",
+  "elType": "section",
+  "settings": {
+   "layout": "full_width",
+   "gap": "default"
+  },
+  "elements": [
+   {
+    "id": "2efad62",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "b0547e9",
+      "elType": "widget",
+      "widgetType": "bp_hero",
+      "settings": {
+       "eyebrow": "Bricks • Cement • Crush • Sand • Steel",
+       "title": "Building Strength.\nDelivering Quality.\nShaping Tomorrow.",
+       "text": "BrickPoint supplies premium bricks and reliable construction materials for contractors, builders, developers and home owners — with one WhatsApp line for quotations and orders.",
+       "btn1_label": "Explore Products",
+       "btn1_link": {
+        "url": "{{URL:products}}",
+        "is_external": "",
+        "nofollow": ""
+       },
+       "btn2_label": "Request a Quote",
+       "btn2_link": {
+        "url": "{{URL:contact}}",
+        "is_external": "",
+        "nofollow": ""
+       },
+       "btn3_whatsapp": "yes",
+       "wa_label": "WhatsApp Us",
+       "video_file": {
+        "url": "{{VID_URL:demo-brick-yard}}",
+        "id": "{{VID_ID:demo-brick-yard}}"
+       },
+       "poster": {
+        "url": "{{IMG_URL:hero-video-poster}}",
+        "id": "{{IMG_ID:hero-video-poster}}"
+       },
+       "badge": "Demo video — replace with your own",
+       "video_radius": {
+        "unit": "px",
+        "size": 18,
+        "sizes": []
+       },
+       "video_opacity": {
+        "unit": "%",
+        "size": 55,
+        "sizes": []
+       },
+       "autoplay": "yes",
+       "show_toggle": "yes",
+       "ss7_enable": "yes",
+       "ss7_image": {
+        "url": "{{IMG_URL:brick-ss7}}",
+        "id": "{{IMG_ID:brick-ss7}}"
+       },
+       "ss7_depth": "medium",
+       "bg_color": "#0e0f11",
+       "video_width": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "2e7ded7",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#f6f1ea"
+  },
+  "elements": [
+   {
+    "id": "a8c1be4",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "fbd7071",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Who we are",
+       "head_title": "BrickPoint supplies the materials that hold projects together",
+       "head_text": "BrickPoint is a construction-materials supplier providing bricks and building materials for contractors, builders, developers, architects and individual customers. Our production companies are Masha Allah Bricks Company, Fine Bricks Company and SS7 Bricks.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "ec57d01",
+      "elType": "widget",
+      "widgetType": "bp_stats",
+      "settings": {
+       "head_eyebrow": "",
+       "head_title": "",
+       "head_text": "",
+       "head_align": "left",
+       "head_tag": "h2",
+       "items": [
+        {
+         "_id": "88d7de4",
+         "icon": "shield",
+         "title": "Quality-focused supply",
+         "text": "Materials sourced from our own production and trusted suppliers.",
+         "value": ""
+        },
+        {
+         "_id": "ab432f8",
+         "icon": "truck",
+         "title": "Reliable delivery",
+         "text": "Loading and dispatch coordinated with your site schedule.",
+         "value": ""
+        },
+        {
+         "_id": "7006bd5",
+         "icon": "factory",
+         "title": "Multiple production locations",
+         "text": "Ram Thaman, Raja Jang and Sattoki production sites.",
+         "value": ""
+        },
+        {
+         "_id": "269bba4",
+         "icon": "layers",
+         "title": "Construction material solutions",
+         "text": "From bricks and cement to steel, crush, sand and finishing items.",
+         "value": ""
+        }
+       ]
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "f0d826d",
+      "elType": "widget",
+      "widgetType": "button",
+      "settings": {
+       "text": "More about BrickPoint",
+       "link": {
+        "url": "{{URL:about-us}}",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "align": "left",
+       "size": "md",
+       "button_text_color": "#ffffff",
+       "background_color": "#c1440e"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "538ecd5",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "372e1bf",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "20ca9b0",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "What we supply",
+       "head_title": "Materials for every stage of construction",
+       "head_text": "Explore the categories we supply most often. Every category page shows the products, specifications and a direct WhatsApp line to our team.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "b178a76",
+      "elType": "widget",
+      "widgetType": "bp_product_categories",
+      "settings": {
+       "home_only": "",
+       "limit": 8,
+       "show_whatsapp": "yes",
+       "show_count": "yes",
+       "style": "card",
+       "image_ratio": "4-3",
+       "head_eyebrow": "",
+       "head_title": "",
+       "head_text": "",
+       "head_align": "left",
+       "head_tag": "h2",
+       "columns": 4,
+       "columns_tablet": 3,
+       "columns_mobile": 2,
+       "gap": {
+        "unit": "px",
+        "size": 24,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "8053353",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#f6f1ea"
+  },
+  "elements": [
+   {
+    "id": "b1ba8bd",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "0905cff",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Featured products",
+       "head_title": "Popular materials, ready for your site",
+       "head_text": "Demo products are installed so you can see how the grid looks. Edit or delete them in WordPress → Products.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "f7552ed",
+      "elType": "widget",
+      "widgetType": "bp_product_grid",
+      "settings": {
+       "category": "",
+       "featured_only": "yes",
+       "limit": 6,
+       "orderby": "date",
+       "order": "DESC",
+       "pagination": "numbers",
+       "card_style": "default",
+       "hover_effect": "lift",
+       "image_ratio": "4-3",
+       "columns": 3,
+       "columns_tablet": 2,
+       "columns_mobile": 1,
+       "gap": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "show_excerpt": "yes",
+       "show_price": "yes",
+       "show_price_label": "yes",
+       "show_details_btn": "yes",
+       "show_whatsapp": "yes"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "c05b502",
+      "elType": "widget",
+      "widgetType": "button",
+      "settings": {
+       "text": "View all products",
+       "link": {
+        "url": "{{URL:products}}",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "align": "center",
+       "size": "md",
+       "button_text_color": "#ffffff",
+       "background_color": "#c1440e"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "1991e1c",
+  "elType": "section",
+  "settings": {
+   "layout": "full_width",
+   "gap": "default"
+  },
+  "elements": [
+   {
+    "id": "fd17dd4",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "eda5bae",
+      "elType": "widget",
+      "widgetType": "bp_ss7_showcase",
+      "settings": {
+       "eyebrow": "SS7 Bricks",
+       "title": "The Strength Behind Every Structure",
+       "text": "SS7 Bricks are produced and stacked with a focus on uniform size, clean edges and consistent strength. Ask us for current sizes, rates and availability for your project.",
+       "image": {
+        "url": "{{IMG_URL:brick-ss7}}",
+        "id": "{{IMG_ID:brick-ss7}}"
+       },
+       "gallery": [
+        {
+         "url": "{{IMG_URL:brick-standard}}",
+         "id": "{{IMG_ID:brick-standard}}"
+        },
+        {
+         "url": "{{IMG_URL:project-boundary}}",
+         "id": "{{IMG_ID:project-boundary}}"
+        }
+       ],
+       "video_file": {
+        "url": "{{VID_URL:demo-brick-stacking}}",
+        "id": "{{VID_ID:demo-brick-stacking}}"
+       },
+       "btn1_label": "View SS7 Bricks",
+       "btn1_link": {
+        "url": "{{URL:ss7-bricks}}",
+        "is_external": "",
+        "nofollow": ""
+       },
+       "quote_label": "Request Quotation",
+       "whatsapp_label": "Ask about SS7 on WhatsApp",
+       "specs": [
+        {
+         "_id": "5778b9f",
+         "label": "Material",
+         "value": "Fired clay brick"
+        },
+        {
+         "_id": "892c984",
+         "label": "Standard use",
+         "value": "Load-bearing walls, grey structure, boundary walls"
+        },
+        {
+         "_id": "96398b4",
+         "label": "Supply",
+         "value": "Bulk loads — confirm sizes and rates on inquiry"
+        }
+       ],
+       "highlights": "Uniform size and clean edges\nConsistent strength across the stack\nStacked and loaded with care\nBulk supply for projects and homes",
+       "media_side": "right",
+       "animation": "depth",
+       "section_bg": "#0e0f11",
+       "text_color": "#ffffff"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "226080f",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "9a296c8",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "91416a4",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Videos",
+       "head_title": "See the material before you order",
+       "head_text": "Short walkthroughs of bricks, loading and stock — replace the demo clips with your own.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "3178937",
+      "elType": "widget",
+      "widgetType": "bp_video_grid",
+      "settings": {
+       "category": "",
+       "featured_only": "",
+       "limit": 3,
+       "orderby": "date",
+       "pagination": "none",
+       "show_filters": "",
+       "image_fit": "cover",
+       "hover": "zoom",
+       "columns": 3,
+       "columns_tablet": 2,
+       "columns_mobile": 1,
+       "gap": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "show_title": "yes",
+       "show_desc": "yes",
+       "show_cat": "yes",
+       "show_duration": "yes",
+       "show_date": "yes",
+       "show_play": "yes",
+       "show_badge": "yes",
+       "show_view_btn": "yes"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "a438cae",
+      "elType": "widget",
+      "widgetType": "button",
+      "settings": {
+       "text": "All videos",
+       "link": {
+        "url": "{{URL:videos}}",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "align": "center",
+       "size": "md",
+       "button_text_color": "#ffffff",
+       "background_color": "#c1440e"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "c19d8aa",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#f6f1ea"
+  },
+  "elements": [
+   {
+    "id": "4e8d49f",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "1b07c1d",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Where to find us",
+       "head_title": "Production sites and sales office",
+       "head_text": "Visit or call before loading. Google Maps links open the exact location.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "b830ca1",
+      "elType": "widget",
+      "widgetType": "bp_location_cards",
+      "settings": {
+       "limit": 4,
+       "show_address": "yes",
+       "show_hours": "yes",
+       "show_buttons": "yes",
+       "show_video": "yes",
+       "show_products": "yes",
+       "head_eyebrow": "",
+       "head_title": "",
+       "head_text": "",
+       "head_align": "left",
+       "head_tag": "h2",
+       "columns": 2,
+       "columns_tablet": 2,
+       "columns_mobile": 1,
+       "gap": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "81330e4",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#ffffff"
+  },
+  "elements": [
+   {
+    "id": "c907a4b",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "e61034c",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Request a quotation",
+       "head_title": "Send your material list, quantity and delivery location",
+       "head_text": "Our team replies with availability and a rate. For the fastest response use WhatsApp.",
+       "head_align": "center",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "0307699",
+      "elType": "widget",
+      "widgetType": "bp_contact_form",
+      "settings": {
+       "heading": "Request a quotation",
+       "subtext": "Share your material list, quantity and delivery location.",
+       "button": "Send Inquiry",
+       "context": "Home page"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ }
+]

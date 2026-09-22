@@ -1,0 +1,196 @@
+[
+ {
+  "id": "eaec433",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "c620a00",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "797b924",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Videos",
+       "head_title": "See the material and the loading before you order",
+       "head_text": "Demo clips are installed with the theme so the page is never empty. Replace them with your own videos in WordPress → Videos (self-hosted MP4, YouTube or Vimeo).",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "76ac218",
+      "elType": "widget",
+      "widgetType": "bp_video_grid",
+      "settings": {
+       "category": "",
+       "featured_only": "",
+       "limit": 12,
+       "orderby": "date",
+       "pagination": "load_more",
+       "show_filters": "yes",
+       "image_fit": "cover",
+       "hover": "zoom",
+       "columns": 3,
+       "columns_tablet": 2,
+       "columns_mobile": 1,
+       "gap": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "show_title": "yes",
+       "show_desc": "yes",
+       "show_cat": "yes",
+       "show_duration": "yes",
+       "show_date": "yes",
+       "show_play": "yes",
+       "show_badge": "yes",
+       "show_view_btn": "yes"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "17eda44",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#f6f1ea"
+  },
+  "elements": [
+   {
+    "id": "e9d8795",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "32bf569",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Add your own videos",
+       "head_title": "How the videos system works",
+       "head_text": "Three steps and the page fills up.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "78e0544",
+      "elType": "widget",
+      "widgetType": "icon-list",
+      "settings": {
+       "icon_list": [
+        {
+         "_id": "d2e67e3",
+         "text": "WordPress → Videos → Add New: paste a YouTube / Vimeo link or upload an MP4",
+         "selected_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "_id": "dc68be2",
+         "text": "Set the thumbnail (featured image), category, duration and description",
+         "selected_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "_id": "a4d6c7c",
+         "text": "Publish — the grid, filters and single video pages update automatically",
+         "selected_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        }
+       ],
+       "icon_color": "#c1440e",
+       "space_between": {
+        "unit": "px",
+        "size": 12,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "0edd7dd",
+      "elType": "widget",
+      "widgetType": "button",
+      "settings": {
+       "text": "Add a video",
+       "link": {
+        "url": "/wp-admin/post-new.php?post_type=bp_video",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "align": "left",
+       "size": "md",
+       "button_text_color": "#ffffff",
+       "background_color": "#c1440e"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ }
+]

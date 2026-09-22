@@ -1,0 +1,157 @@
+/* ==========================================================================
+   BrickPoint — motion layer
+   Pure CSS transforms. Everything is disabled for prefers-reduced-motion.
+   ========================================================================== */
+
+@keyframes bp-slide-down {
+	from { transform: translateY(-100%); }
+	to   { transform: translateY(0); }
+}
+
+@keyframes bp-fade-up {
+	from { opacity: 0; transform: translate3d(0, 22px, 0); }
+	to   { opacity: 1; transform: translate3d(0, 0, 0); }
+}
+
+@keyframes bp-fade-in {
+	from { opacity: 0; }
+	to   { opacity: 1; }
+}
+
+/* SS7 brick: starts small and back in the scene, moves forward and settles.
+   Only scale/translate/blur are animated, so the brick keeps its true
+   aspect ratio and never distorts. */
+@keyframes bp-ss7-depth {
+	0% {
+		opacity: 0;
+		transform: translate3d(-14%, 22%, 0) scale(.62);
+		filter: blur(3px) drop-shadow(0 10px 14px rgba(0, 0, 0, .35));
+	}
+	55% {
+		opacity: 1;
+		filter: blur(0) drop-shadow(0 26px 34px rgba(0, 0, 0, .5));
+	}
+	100% {
+		opacity: 1;
+		transform: translate3d(0, 0, 0) scale(1);
+		filter: blur(0) drop-shadow(0 26px 34px rgba(0, 0, 0, .5));
+	}
+}
+
+@keyframes bp-ss7-float {
+	0%, 100% { transform: translate3d(0, 0, 0) rotate(-.4deg); }
+	50%      { transform: translate3d(0, -10px, 0) rotate(.4deg); }
+}
+
+@keyframes bp-pulse {
+	0%   { box-shadow: 0 0 0 0 rgba(37, 211, 102, .5); }
+	70%  { box-shadow: 0 0 0 16px rgba(37, 211, 102, 0); }
+	100% { box-shadow: 0 0 0 0 rgba(37, 211, 102, 0); }
+}
+
+/* --------------------------------------------- Entrance (scroll triggered) */
+.bp-reveal {
+	opacity: 0;
+	transform: translate3d(0, 22px, 0);
+	transition: opacity var(--bp-anim) var(--bp-ease), transform var(--bp-anim) var(--bp-ease);
+	will-change: opacity, transform;
+}
+
+.bp-reveal.is-visible {
+	opacity: 1;
+	transform: none;
+}
+
+/* If JavaScript never runs (or is deferred for long), never hide content. */
+.no-js .bp-reveal {
+	opacity: 1;
+	transform: none;
+}
+
+/* Hero lines animate in immediately - no scroll needed. */
+.bp-hero__line,
+.bp-hero__text,
+.bp-hero__actions,
+.bp-hero .bp-eyebrow {
+	animation: bp-fade-up 700ms var(--bp-ease) both;
+}
+.bp-hero__line:nth-child(2) { animation-delay: 120ms; }
+.bp-hero__line:nth-child(3) { animation-delay: 240ms; }
+.bp-hero__text   { animation-delay: 320ms; }
+.bp-hero__actions { animation-delay: 420ms; }
+
+/* ------------------------------------------------------------- SS7 brick   */
+.bp-hero__ss7 .bp-ss7-brick,
+.bp-ss7__figure .bp-ss7-brick {
+	transform-origin: 60% 70%;
+	animation: bp-ss7-depth 1400ms var(--bp-ease) 200ms both;
+	backface-visibility: hidden;
+}
+
+.bp-hero[data-ss7="subtle"] .bp-ss7-brick { animation-name: bp-ss7-depth-subtle; }
+.bp-hero[data-ss7="strong"] .bp-ss7-brick { animation-name: bp-ss7-depth-strong; }
+
+@keyframes bp-ss7-depth-subtle {
+	0%   { opacity: 0; transform: translate3d(-6%, 10%, 0) scale(.86); }
+	100% { opacity: 1; transform: translate3d(0, 0, 0) scale(1); }
+}
+
+@keyframes bp-ss7-depth-strong {
+	0%   { opacity: 0; transform: translate3d(-22%, 34%, 0) scale(.5); filter: blur(5px); }
+	100% { opacity: 1; transform: translate3d(0, 0, 0) scale(1); filter: blur(0); }
+}
+
+.bp-ss7--anim-float .bp-ss7__figure img,
+.bp-ss7--anim-float .bp-ss7-brick {
+	animation: bp-ss7-depth 1400ms var(--bp-ease) both, bp-ss7-float 7s ease-in-out 1.6s infinite;
+}
+
+.bp-ss7--anim-none .bp-ss7__figure img,
+.bp-ss7--anim-none .bp-ss7-brick { animation: none; }
+
+/* ------------------------------------------------------------- Micro UI    */
+.bp-float-wa { animation: bp-pulse 3.4s ease-out 2s infinite; }
+
+.bp-btn--primary,
+.bp-btn--whatsapp { position: relative; overflow: hidden; }
+
+.bp-play { transition: transform .25s var(--bp-ease), background-color .2s ease; }
+
+.bp-product-card,
+.bp-video-card,
+.bp-project-card,
+.bp-category-card,
+.bp-post-card,
+.bp-feature { will-change: transform; }
+
+/* Reduced motion: keep everything readable and static. */
+@media (prefers-reduced-motion: reduce) {
+	html { scroll-behavior: auto; }
+
+	*,
+	*::before,
+	*::after {
+		animation-duration: .001ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: .001ms !important;
+		scroll-behavior: auto !important;
+	}
+
+	.bp-reveal { opacity: 1; transform: none; }
+
+	.bp-hero__ss7 .bp-ss7-brick,
+	.bp-ss7__figure .bp-ss7-brick {
+		animation: none;
+		opacity: 1;
+		transform: none;
+		filter: drop-shadow(0 18px 26px rgba(0, 0, 0, .45));
+	}
+
+	.bp-float-wa { animation: none; }
+}
+
+/* Print: no decoration, no motion. */
+@media print {
+	.bp-header, .bp-footer, .bp-mobile-bar, .bp-float-wa, .bp-lightbox, .bp-hero__video-toggle { display: none !important; }
+	.bp-hero, .bp-page-hero, .bp-ss7--dark { background: #fff !important; color: #000 !important; }
+}

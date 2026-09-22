@@ -1,0 +1,285 @@
+[
+ {
+  "id": "82a858d",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "24334d5",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "7bd8f0b",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Construction materials",
+       "head_title": "One supply line for the whole site",
+       "head_text": "Cement, crush, sand, steel, pipes, construction chemicals, insulation, cables, paints and finishing items — ordered together and delivered with your bricks.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "058abb8",
+      "elType": "widget",
+      "widgetType": "bp_product_categories",
+      "settings": {
+       "home_only": "",
+       "limit": 15,
+       "show_whatsapp": "yes",
+       "show_count": "yes",
+       "style": "card",
+       "image_ratio": "4-3",
+       "head_eyebrow": "",
+       "head_title": "",
+       "head_text": "",
+       "head_align": "left",
+       "head_tag": "h2",
+       "columns": 4,
+       "columns_tablet": 3,
+       "columns_mobile": 2,
+       "gap": {
+        "unit": "px",
+        "size": 24,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "aab47ab",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#f6f1ea"
+  },
+  "elements": [
+   {
+    "id": "2a34704",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "d61b9d9",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Materials we supply",
+       "head_title": "Popular items",
+       "head_text": "Rates and availability are confirmed on inquiry.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "11c4b54",
+      "elType": "widget",
+      "widgetType": "bp_product_grid",
+      "settings": {
+       "category": "",
+       "featured_only": "",
+       "limit": 9,
+       "orderby": "menu_order",
+       "order": "DESC",
+       "pagination": "load_more",
+       "card_style": "default",
+       "hover_effect": "lift",
+       "image_ratio": "4-3",
+       "columns": 3,
+       "columns_tablet": 2,
+       "columns_mobile": 1,
+       "gap": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "show_excerpt": "yes",
+       "show_price": "yes",
+       "show_price_label": "yes",
+       "show_details_btn": "yes",
+       "show_whatsapp": "yes"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "371b637",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "f9340ed",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "1ff6007",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Project supply",
+       "head_title": "Grey structure to finishing",
+       "head_text": "Share your material schedule and we will work through the list with you.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "bfce1a3",
+      "elType": "widget",
+      "widgetType": "icon-list",
+      "settings": {
+       "icon_list": [
+        {
+         "_id": "86b5a68",
+         "text": "Bricks and blocks from our own production",
+         "selected_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "_id": "80cc9c8",
+         "text": "Cement, crush, sand and steel in bulk",
+         "selected_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "_id": "6a5cbb7",
+         "text": "Pipes, electrical items and construction chemicals",
+         "selected_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "_id": "ad45c9b",
+         "text": "Insulation, cables, paints, lights and switches",
+         "selected_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "_id": "1179151",
+         "text": "Delivery coordination with your site team",
+         "selected_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        }
+       ],
+       "icon_color": "#c1440e",
+       "space_between": {
+        "unit": "px",
+        "size": 12,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "480bc30",
+      "elType": "widget",
+      "widgetType": "bp_whatsapp_button",
+      "settings": {
+       "label": "Send your material list",
+       "context": "general",
+       "message": "Assalam-o-Alaikum BrickPoint, I need a quotation for construction materials.",
+       "style": "whatsapp",
+       "size": "lg",
+       "show_icon": "yes",
+       "show_phone": "yes",
+       "full_width": "",
+       "align": "left"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ }
+]

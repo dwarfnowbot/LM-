@@ -1,0 +1,88 @@
+/*
+ * BrickPoint — RTL overrides.
+ * Loaded automatically by WordPress when the site language is RTL.
+ */
+
+body.bp-body { direction: rtl; text-align: right; }
+
+.bp-container { margin-right: auto; margin-left: auto; }
+
+/* Header */
+.bp-logo { flex-direction: row-reverse; }
+.bp-logo__text { text-align: right; }
+.bp-menu .menu-item-has-children > a::after { transform: rotate(-135deg) translateY(-1px); }
+.bp-menu .sub-menu { right: 0; left: auto; }
+.bp-menu .sub-menu .sub-menu { right: 100%; left: auto; }
+.bp-topbar__item svg,
+.bp-footer__contact svg { margin-right: 0; margin-left: 8px; }
+
+/* Hero */
+.bp-hero__ss7 { left: -2%; right: auto; }
+.bp-hero__line, .bp-hero__text, .bp-hero__title { text-align: right; }
+
+/* Sections and cards */
+.bp-section__head { text-align: right; }
+.bp-section__head--center { text-align: center; }
+.bp-section__divider { margin-right: 0; }
+
+.bp-feature__icon,
+.bp-category-card__icon { margin-left: 0; }
+
+.bp-product-meta__row { flex-direction: row-reverse; }
+.bp-product-meta dd { text-align: left; }
+
+.bp-specs__table th,
+.bp-specs__table td,
+.bp-ss7__specs th,
+.bp-ss7__specs td { text-align: right; }
+
+.bp-link-list a { flex-direction: row-reverse; }
+.bp-link-arrow svg,
+.bp-video-card__link svg { transform: scaleX(-1); }
+.bp-link-arrow:hover svg { transform: scaleX(-1) translateX(-4px); }
+
+/* Media overlays sit on the opposite corner in RTL */
+.bp-product-card__media .bp-badge { right: 12px; left: auto; }
+.bp-product-card__media .bp-badge--availability { right: 12px; left: auto; }
+.bp-video-card__duration { left: 12px; right: auto; }
+.bp-video-card__media .bp-badge--featured { right: 12px; left: auto; }
+.bp-project-card__media .bp-badge--note { right: 12px; left: auto; }
+.bp-location-card__pin { right: 14px; left: auto; }
+.bp-hero__video-badge { right: 14px; left: auto; }
+.bp-hero__video-toggle { left: 14px; right: auto; }
+
+/* Breadcrumbs and pagination */
+.bp-breadcrumbs__item + .bp-breadcrumbs__item::before {
+	content: "/";
+	margin-right: 0;
+	margin-left: 8px;
+}
+
+/* Footer */
+.bp-footer__contact li { flex-direction: row-reverse; }
+.bp-footer__legal { flex-direction: row-reverse; }
+
+/* Utilities */
+.bp-float-wa { left: 20px; right: auto; }
+.alignleft { float: right; margin: 0 0 18px 24px; }
+.alignright { float: left; margin: 0 24px 18px 0; }
+
+/* Mobile drawer slides in from the right in LTR — mirror it */
+@media (max-width: 1024px) {
+	.bp-nav {
+		inset: 0 auto 0 0;
+		box-shadow: 20px 0 50px rgba(14, 15, 17, .16);
+		transform: translateX(-102%);
+	}
+	.bp-nav.is-open { transform: none; }
+	.bp-menu .sub-menu { border-left: 0; border-right: 2px solid var(--bp-line); margin: 4px 12px 8px 0; padding: 0 8px 0 0; }
+}
+
+/* Forms and buttons keep their natural flow */
+.bp-btn svg { margin-left: 0; }
+.bp-form label { text-align: right; }
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="search"],
+textarea { text-align: right; }

@@ -1,0 +1,261 @@
+[
+ {
+  "id": "21cd687",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "805689c",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "f31ab96",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Product categories",
+       "head_title": "Find materials by category",
+       "head_text": "Every category page lists the products we supply, their specifications and a WhatsApp inquiry button.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "f826678",
+      "elType": "widget",
+      "widgetType": "bp_product_categories",
+      "settings": {
+       "home_only": "",
+       "limit": 15,
+       "show_whatsapp": "yes",
+       "show_count": "yes",
+       "style": "card",
+       "image_ratio": "4-3",
+       "head_eyebrow": "",
+       "head_title": "",
+       "head_text": "",
+       "head_align": "left",
+       "head_tag": "h2",
+       "columns": 4,
+       "columns_tablet": 3,
+       "columns_mobile": 2,
+       "gap": {
+        "unit": "px",
+        "size": 24,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "b3a7171",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#f6f1ea"
+  },
+  "elements": [
+   {
+    "id": "93f11b3",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "a6811c6",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Bricks and blocks",
+       "head_title": "Our own production",
+       "head_text": "SS7 Bricks, clay bricks and block supply.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "0188444",
+      "elType": "widget",
+      "widgetType": "bp_product_grid",
+      "settings": {
+       "category": "bricks",
+       "featured_only": "",
+       "limit": 3,
+       "orderby": "menu_order",
+       "order": "DESC",
+       "pagination": "none",
+       "card_style": "default",
+       "hover_effect": "lift",
+       "image_ratio": "4-3",
+       "columns": 3,
+       "columns_tablet": 2,
+       "columns_mobile": 1,
+       "gap": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "show_excerpt": "yes",
+       "show_price": "yes",
+       "show_price_label": "yes",
+       "show_details_btn": "yes",
+       "show_whatsapp": "yes"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "141b9af",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "61eb777",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "5a8d434",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "All products",
+       "head_title": "Everything in one place",
+       "head_text": "",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "24c9be1",
+      "elType": "widget",
+      "widgetType": "bp_product_grid",
+      "settings": {
+       "category": "",
+       "featured_only": "",
+       "limit": 9,
+       "orderby": "menu_order",
+       "order": "DESC",
+       "pagination": "load_more",
+       "card_style": "default",
+       "hover_effect": "lift",
+       "image_ratio": "4-3",
+       "columns": 3,
+       "columns_tablet": 2,
+       "columns_mobile": 1,
+       "gap": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "show_excerpt": "yes",
+       "show_price": "yes",
+       "show_price_label": "yes",
+       "show_details_btn": "yes",
+       "show_whatsapp": "yes"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "7f2c726",
+      "elType": "widget",
+      "widgetType": "button",
+      "settings": {
+       "text": "Open the products page",
+       "link": {
+        "url": "{{URL:products}}",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "align": "center",
+       "size": "md",
+       "button_text_color": "#ffffff",
+       "background_color": "#c1440e"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ }
+]

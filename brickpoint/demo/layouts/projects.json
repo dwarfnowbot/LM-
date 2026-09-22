@@ -1,0 +1,221 @@
+[
+ {
+  "id": "0b1fe5a",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "55ff048",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "ca73eee",
+      "elType": "widget",
+      "widgetType": "bp_section_heading",
+      "settings": {
+       "head_eyebrow": "Projects",
+       "head_title": "Material supply for homes and commercial sites",
+       "head_text": "These are demo project entries. Replace them with your own work and photos — every card is editable in WordPress → Projects.",
+       "head_align": "left",
+       "head_tag": "h2"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "1a6582d",
+      "elType": "widget",
+      "widgetType": "bp_project_grid",
+      "settings": {
+       "category": "",
+       "featured_only": "",
+       "limit": 12,
+       "orderby": "menu_order",
+       "show_meta": "yes",
+       "columns": 3,
+       "columns_tablet": 2,
+       "columns_mobile": 1,
+       "gap": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "27e8d72",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "48",
+    "right": "24",
+    "bottom": "48",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#f6f1ea"
+  },
+  "elements": [
+   {
+    "id": "5ecab5d",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "d7b5376",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "settings": {
+       "editor": "<p><strong>Note on project visuals:</strong> demo project cards are marked “Illustrative construction reference”. Replace them with your own project details and photos, and never claim supply to a named project, developer or housing society unless it can be confirmed.</p>",
+       "align": "left",
+       "text_color": "#4a4a4a"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "b9c0bb6",
+  "elType": "section",
+  "settings": {
+   "layout": "boxed",
+   "gap": "default",
+   "content_width": {
+    "unit": "px",
+    "size": 1240,
+    "sizes": []
+   },
+   "padding": {
+    "unit": "px",
+    "top": "80",
+    "right": "24",
+    "bottom": "80",
+    "left": "24",
+    "isLinked": false
+   },
+   "background_background": "classic",
+   "background_color": "#0e0f11"
+  },
+  "elements": [
+   {
+    "id": "bed47b8",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null
+    },
+    "elements": [
+     {
+      "id": "2dc9552",
+      "elType": "widget",
+      "widgetType": "heading",
+      "settings": {
+       "title": "Building a project and need materials?",
+       "header_size": "h2",
+       "align": "center",
+       "title_color": "#ffffff"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "d536bad",
+      "elType": "widget",
+      "widgetType": "text-editor",
+      "settings": {
+       "editor": "<p style=\"color:#d8d3cb;text-align:center;\">Send the material list and delivery schedule — we will confirm rates and loading times.</p>",
+       "align": "left"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "863c6e1",
+      "elType": "widget",
+      "widgetType": "bp_whatsapp_button",
+      "settings": {
+       "label": "Discuss your project",
+       "context": "general",
+       "message": "Assalam-o-Alaikum BrickPoint, I would like to discuss material supply for a project.",
+       "style": "whatsapp",
+       "size": "lg",
+       "show_icon": "yes",
+       "show_phone": "yes",
+       "full_width": "",
+       "align": "center"
+      },
+      "elements": [],
+      "isInner": false
+     },
+     {
+      "id": "265245b",
+      "elType": "widget",
+      "widgetType": "button",
+      "settings": {
+       "text": "Request a Quote",
+       "link": {
+        "url": "{{URL:contact}}",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "align": "center",
+       "size": "md",
+       "button_text_color": "#ffffff",
+       "background_color": "#c1440e"
+      },
+      "elements": [],
+      "isInner": false
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ }
+]
