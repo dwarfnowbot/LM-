@@ -174,7 +174,7 @@ class Team extends Base {
 
 		$this->render_heading( $s, 'head' );
 
-		$members = ! empty( $s['members'] ) && is_array( $s['members'] ) ? $s['members'] : array();
+		$members = ( isset( $s['members'] ) && is_array( $s['members'] ) ) ? $s['members'] : array();
 
 		if ( ! $members ) {
 			printf(
@@ -185,7 +185,8 @@ class Team extends Base {
 			return;
 		}
 
-		$ratio_class = 'bp-team--ratio-' . ( in_array( $s['photo_ratio'], array( '1-1', '4-3', '16-9', 'circle' ), true ) ? $s['photo_ratio'] : '1-1' );
+		$photo_ratio = isset( $s['photo_ratio'] ) ? $s['photo_ratio'] : '1-1';
+		$ratio_class = 'bp-team--ratio-' . ( in_array( $photo_ratio, array( '1-1', '4-3', '16-9', 'circle' ), true ) ? $photo_ratio : '1-1' );
 
 		printf(
 			'<div class="bp-grid-cols bp-team-grid %1$s" style="%2$s">',
